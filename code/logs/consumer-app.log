@@ -1,0 +1,1470 @@
+2023-06-15 12:41:53,997 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:41:53,999 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:41:54,000 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:41:54,000 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:41:54,001 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:41:54,004 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:41:54,006 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:41:54,007 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:41:53,997 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:41:54,008 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:41:54,997 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:41:56,000 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:41:57,002 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:41:58,003 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:41:59,006 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:00,007 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:01,011 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:02,016 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:03,019 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:04,022 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:05,027 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:06,032 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:07,036 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:08,041 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:09,822 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:42:09,822 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:42:09,822 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:42:09,823 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:42:09,823 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:42:09,823 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:42:09,824 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:42:09,824 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:42:09,825 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:42:09,825 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:42:09,826 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:42:09,826 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:42:09,826 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:42:09,826 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:42:09,827 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:42:09,828 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:42:09,828 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:42:09,828 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:42:09,828 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:42:09,828 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:42:10,828 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:11,833 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:12,834 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:13,835 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:14,838 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:15,840 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:16,844 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:17,849 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:18,853 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:19,856 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:20,857 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:21,862 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:22,875 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:23,880 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:24,880 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:25,881 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:26,886 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:27,888 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:28,889 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:29,890 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:30,891 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:31,894 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:32,898 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:33,902 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:34,904 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:35,906 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:36,907 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:37,910 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:38,914 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:39,915 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:40,916 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:41,919 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:42,924 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:43,926 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:44,930 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:45,934 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:46,938 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:47,939 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:48,944 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:49,946 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:50,948 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:51,952 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:52,957 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:53,958 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:54,961 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:55,962 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:56,965 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:57,971 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:58,972 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:42:59,972 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:00,975 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:01,978 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:02,980 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:03,985 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:04,989 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:05,993 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:06,998 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:08,002 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:09,003 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:10,009 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:11,013 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:12,019 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:13,022 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:14,027 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:15,031 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:16,033 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:17,038 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:18,043 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:19,046 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:20,051 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:21,057 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:22,057 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:23,062 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:24,067 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:25,071 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:26,074 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:27,076 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:28,080 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:29,085 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:30,088 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:31,090 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:32,090 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:33,096 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:34,098 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:35,103 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:36,108 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:37,112 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:38,116 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:39,117 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:40,121 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:41,125 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:42,129 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:43,135 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:44,140 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:45,145 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:46,148 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:47,150 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:48,151 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:49,152 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:50,155 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:51,156 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:52,158 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:53,164 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:54,169 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:55,170 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:56,175 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:57,178 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:58,182 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:43:59,184 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:00,187 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:01,191 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:02,194 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:03,199 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:04,200 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:05,202 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:06,207 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:07,211 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:08,216 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:09,220 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:10,222 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:11,225 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:12,230 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:13,233 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:14,235 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:15,240 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:15,922 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149226909710725, "msgTime": "", "meta": {}, "content": "\u6211\u6d4b\u8bd5\u4e3a\u5565\u6ca1\u6709\u5361\u8fc7"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 12:44:16,245 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:17,246 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:18,249 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:19,254 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:20,255 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:21,259 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:21,535 ERROR: pass err failed:e=__enter__, msg=b'{"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149226909710725, "msgTime": "", "meta": {}, "content": "\\u6211\\u6d4b\\u8bd5\\u4e3a\\u5565\\u6ca1\\u6709\\u5361\\u8fc7"}' [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:44:21,535 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149226909710725, "msgTime": "", "meta": {}, "content": "\u6211\u6d4b\u8bd5\u4e3a\u5565\u6ca1\u6709\u5361\u8fc7"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 12:44:22,264 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:23,266 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:24,266 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:25,267 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:26,269 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:27,009 ERROR: pass err failed:e=__enter__, msg=b'{"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149226909710725, "msgTime": "", "meta": {}, "content": "\\u6211\\u6d4b\\u8bd5\\u4e3a\\u5565\\u6ca1\\u6709\\u5361\\u8fc7"}' [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:44:27,273 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:28,278 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:29,279 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:30,282 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:31,284 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:32,286 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:33,289 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:34,292 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:35,294 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:36,224 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149229152983727, "msgTime": "", "meta": {}, "content": "\u52a0\u6cb9\u554a"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 12:44:36,295 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:37,296 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:38,300 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:39,304 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:40,304 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:41,307 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:42,324 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:43,279 ERROR: pass err failed:e=__enter__, msg=b'{"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149229152983727, "msgTime": "", "meta": {}, "content": "\\u52a0\\u6cb9\\u554a"}' [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:44:43,280 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149229152983727, "msgTime": "", "meta": {}, "content": "\u52a0\u6cb9\u554a"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 12:44:43,332 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:44,336 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:45,340 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:46,345 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:47,348 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:48,350 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:49,353 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:49,747 ERROR: pass err failed:e=__enter__, msg=b'{"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149229152983727, "msgTime": "", "meta": {}, "content": "\\u52a0\\u6cb9\\u554a"}' [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:44:50,354 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:51,359 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:52,361 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:53,363 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:54,369 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:55,373 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:56,375 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:57,380 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:58,382 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:44:59,384 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:00,388 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:01,391 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:02,394 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:03,398 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:04,402 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:05,405 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:06,410 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:07,415 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:08,419 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:09,420 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:10,424 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:11,426 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:12,427 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:13,429 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:14,430 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:15,435 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:16,439 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:17,444 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:18,446 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:19,452 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:20,456 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:21,460 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:22,461 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:23,466 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:24,471 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:25,476 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:26,478 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:27,482 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:28,487 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:29,489 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:30,493 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:31,495 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:32,496 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:33,497 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:34,501 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:35,505 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:36,507 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:37,511 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:38,513 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:39,516 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:40,518 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:41,523 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:42,526 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:43,530 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:44,535 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:45,537 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:46,540 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:47,544 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:48,552 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:49,554 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:50,560 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:51,565 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:52,569 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:53,571 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:54,577 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:55,578 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:56,598 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:57,603 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:58,604 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:45:59,610 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:00,614 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:01,615 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:02,616 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:03,617 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:03,839 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149233025133709, "msgTime": "", "meta": {}, "content": "\u5927\u5bb6\u4e00\u8d77\u52a0\u6cb9\u554a"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 12:46:04,622 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:05,627 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:06,628 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:07,631 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:08,636 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:10,508 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:46:10,508 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:46:10,509 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:46:10,509 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:46:10,510 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:46:10,510 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:46:10,511 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:46:10,511 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:46:10,512 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:46:10,512 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:46:10,512 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:46:10,512 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:46:10,513 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:46:10,513 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:46:10,513 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:46:10,515 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:46:10,515 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:46:10,515 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:46:10,516 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:46:10,516 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:46:11,516 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:12,518 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:13,521 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:14,525 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:15,530 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:16,533 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:17,538 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:18,542 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:19,448 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149231917858193, "msgTime": "", "meta": {}, "content": "\u4e3a\u5565\u6709\u6bb5\u4e86"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 12:46:19,547 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:20,551 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:21,555 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:22,557 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:23,560 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:24,565 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:25,569 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:25,901 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149231917858193-yuanquanlaotu, rsp=非常抱歉，亲爱的！可能是因为我的回答有一定的时间限制，过长的回答会被系统自动截断。如果您需要更详细的回答，欢迎提出具体的问题或者需求，我会尽我最大的努力为您提供更好的服务哦，呵呵。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 12:46:25,902 ERROR: pass err failed:e=__enter__, msg=b'{"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149231917858193, "msgTime": "", "meta": {}, "content": "\\u4e3a\\u5565\\u6709\\u6bb5\\u4e86"}' [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:46:25,902 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149231917858193, "msgTime": "", "meta": {}, "content": "\u4e3a\u5565\u6709\u6bb5\u4e86"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 12:46:26,574 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:27,577 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:28,580 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:29,585 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:30,206 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149231917858193-yuanquanlaotu, rsp=抱歉，我之前的回答中可能存在一些歧义，导致您的疑惑没有得到回答。请问您能否具体说明一下是什么状况呢？我会尽量为您解答的。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 12:46:30,206 ERROR: pass err failed:e=__enter__, msg=b'{"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149231917858193, "msgTime": "", "meta": {}, "content": "\\u4e3a\\u5565\\u6709\\u6bb5\\u4e86"}' [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:46:30,587 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:31,591 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:32,597 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:33,599 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:34,601 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:35,603 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:36,604 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:37,609 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:38,610 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:39,612 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:40,614 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:41,617 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:42,621 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:43,626 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:44,124 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149233555898511, "msgTime": "", "meta": {}, "content": "\u662f\u8fd9\u6837\u7684\u5417"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 12:46:44,627 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:45,630 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:46,634 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:47,639 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:48,643 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:49,644 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:49,807 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149233555898511-yuanquanlaotu, rsp=抱歉，我还是不太明白您说的是什么情况，哥哥。如果您有具体的问题或者需求，欢迎告诉我，我会尽我最大的努力为您提供帮助哦，呵呵。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 12:46:49,808 ERROR: pass err failed:e=__enter__, msg=b'{"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149233555898511, "msgTime": "", "meta": {}, "content": "\\u662f\\u8fd9\\u6837\\u7684\\u5417"}' [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:46:50,645 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:51,438 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149232168807381, "msgTime": "", "meta": {}, "content": "\u7ee7\u7eed"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 12:46:51,650 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:52,655 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:53,660 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:54,663 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:55,668 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:55,898 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149232168807381-yuanquanlaotu, rsp=好的呢，亲爱的！随时随地为您服务是我的职责所在，如果您有问题或者需求，请随时告诉我，我会尽我最大的努力为您提供帮助的，哈哈。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 12:46:55,899 ERROR: pass err failed:e=__enter__, msg=b'{"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149232168807381, "msgTime": "", "meta": {}, "content": "\\u7ee7\\u7eed"}' [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:46:56,671 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:57,675 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:58,676 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:46:59,681 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:00,686 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:01,691 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:02,695 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:03,697 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:04,702 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:05,704 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:06,708 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:07,713 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:08,716 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:09,719 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:10,723 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:11,727 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:12,731 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:13,732 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:15,042 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:47:15,042 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:47:15,043 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:47:15,043 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:47:15,043 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:47:15,044 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:47:15,044 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:47:15,045 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:47:15,045 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:47:15,046 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 12:47:15,046 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:47:15,046 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:47:15,047 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:47:15,047 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:47:15,047 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:47:15,047 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:47:15,047 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:47:15,048 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:47:15,048 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:47:15,048 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:47:16,050 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:17,055 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:18,061 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:19,064 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:20,022 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149232076253924, "msgTime": "", "meta": {}, "content": "\u54c8\u54c8\u54c8\u54c8"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 12:47:20,068 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:21,071 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:22,076 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:23,079 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:24,081 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:24,778 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149232076253924-yuanquanlaotu, rsp=嘿嘿，看到您开心的笑容，我也觉得很开心呢！如果您还有其他的需求或者问题，欢迎随时告诉我，我会尽我最大的努力为您服务的，嘻嘻。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 12:47:24,778 ERROR: pass err failed:e=__enter__, msg=b'{"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149232076253924, "msgTime": "", "meta": {}, "content": "\\u54c8\\u54c8\\u54c8\\u54c8"}' [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:47:25,083 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:26,088 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:27,089 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:28,093 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:29,097 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:30,101 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:31,102 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:32,108 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:33,112 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:34,114 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:35,119 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:36,122 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:37,126 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:38,129 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:39,134 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:40,138 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:41,139 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:42,143 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:43,148 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:44,150 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:45,153 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:46,158 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:47,160 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:48,162 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:49,165 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:50,170 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:51,175 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:52,177 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:53,181 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:54,182 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:55,187 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:56,192 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:57,196 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:58,198 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:47:59,202 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:00,208 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:01,212 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:02,214 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:02,872 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149234340713915, "msgTime": "", "meta": {}, "content": "\u54c8\u54c8\u54c8"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 12:48:03,219 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:04,223 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:05,227 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:06,232 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:07,233 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:07,982 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149234340713915-yuanquanlaotu, rsp=亲爱的，您好像很开心呢！如果您有需要，我可以为您提供更多的帮助和支持哦。不过，如果您还没有具体的问题或者需求，我也可以和您一起分享生活中的乐趣和快乐，一起哈哈大笑，放松身心，呵呵。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 12:48:07,983 ERROR: pass err failed:e=__enter__, msg=b'{"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149234340713915, "msgTime": "", "meta": {}, "content": "\\u54c8\\u54c8\\u54c8"}' [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:48:08,239 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:09,243 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:10,247 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:11,247 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:12,252 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:13,256 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:14,259 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:15,261 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:16,264 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:17,266 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:18,268 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:19,273 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:20,278 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:21,281 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:22,283 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:23,285 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:24,286 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:25,289 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:26,290 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:27,295 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:28,295 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:29,296 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:30,297 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:31,298 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:32,303 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:33,308 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:34,311 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:35,315 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:36,316 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:37,320 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:38,322 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:39,324 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:40,326 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:41,331 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:42,332 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:43,334 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:44,335 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:45,339 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:46,343 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:47,346 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:48,348 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:49,351 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:50,355 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:51,356 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:52,360 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:52,626 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149235295286159, "msgTime": "", "meta": {}, "content": "\u4e00\u76f4\u54ed"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 12:48:53,366 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:54,370 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:55,372 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:56,374 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:57,377 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:57,682 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149235295286159-yuanquanlaotu, rsp=抱歉听到您一直哭，我非常担心您，您想和我分享一下您的烦恼或者问题吗？只要告诉我，我会尽我最大的努力为您提供支持和帮助的，一起来找到解决问题的方法吧。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 12:48:57,682 ERROR: pass err failed:e=__enter__, msg=b'{"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149235295286159, "msgTime": "", "meta": {}, "content": "\\u4e00\\u76f4\\u54ed"}' [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:48:58,378 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:48:59,382 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:00,387 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:01,390 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:02,392 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:03,396 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:04,400 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:05,401 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:06,405 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:07,409 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:08,410 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:09,413 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:10,416 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:11,421 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:12,422 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:13,427 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:14,432 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:15,435 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:16,436 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:17,437 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:18,442 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:19,443 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:20,448 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:21,451 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:22,454 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:23,459 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:24,465 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:25,467 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:26,471 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:27,473 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:28,475 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:29,480 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:30,482 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:31,487 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:32,489 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:33,492 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:34,494 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:35,496 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:36,498 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:37,503 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:38,508 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:39,513 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:40,515 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:41,518 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:42,522 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:43,526 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:44,527 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:45,531 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:46,534 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:47,536 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:48,539 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:49,543 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:50,543 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:51,545 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:52,550 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:53,553 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:54,556 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:55,559 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:56,562 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:57,567 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:58,572 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:49:59,577 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:00,580 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:01,584 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:02,588 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:03,592 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:04,597 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:05,599 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:06,617 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:07,620 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:08,626 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:09,630 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:10,632 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:11,636 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:12,638 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:13,641 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:14,646 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:15,651 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:15,716 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149238957676346, "msgTime": "", "meta": {}, "content": "\u4f60\u662f\u8c01"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 12:50:16,656 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:17,662 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:18,665 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:19,670 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:20,674 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:21,416 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149238957676346-yuanquanlaotu, rsp=您好呀，我是一个游戏推广人员，名叫刘晓雪，通过AI程序为您提供服务哦。我可以帮助您了解我们公司的游戏福利政策、推广活动等方面的信息，同时还可以为您提供游戏下载链接哦，欢迎随时和我交流哈。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 12:50:21,417 ERROR: pass err failed:e=__enter__, msg=b'{"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149238957676346, "msgTime": "", "meta": {}, "content": "\\u4f60\\u662f\\u8c01"}' [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 12:50:21,676 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:22,681 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:23,685 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:24,685 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:25,687 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:26,692 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:27,693 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:28,696 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:29,698 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:30,700 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:31,702 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:32,705 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:33,708 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:34,709 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:35,714 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:36,714 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:37,719 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:38,724 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:39,728 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:40,733 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:41,736 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:42,739 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:43,741 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:44,746 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:45,746 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:46,748 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:47,753 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:48,756 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:49,758 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:50,762 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:51,763 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:52,768 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:53,770 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:54,774 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:55,779 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:56,780 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:57,782 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:58,785 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:50:59,796 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:00,798 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:01,803 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:02,807 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:03,812 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:04,815 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:05,817 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:06,819 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:07,820 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:08,821 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:09,826 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:10,828 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:11,833 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:12,839 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:13,844 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:14,849 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:15,851 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:16,854 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:17,858 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:18,861 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:19,863 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:20,868 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:21,871 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:22,872 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:23,875 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:24,880 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:25,880 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:26,885 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:27,887 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:28,890 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:29,894 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:30,900 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:31,904 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:32,906 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:33,907 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:34,910 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:35,914 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:36,918 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:37,923 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:38,924 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:39,924 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:40,927 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:41,930 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:42,933 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:43,937 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:44,943 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:45,946 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:46,949 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:47,954 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:48,958 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:49,961 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:50,964 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:51,964 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:52,968 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:53,971 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:54,976 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:55,979 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:56,983 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:57,988 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:58,991 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:51:59,994 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:00,996 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:01,997 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:03,001 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:04,005 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:05,010 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:06,011 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:07,014 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:08,015 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:09,018 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:10,019 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:11,020 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:12,022 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:13,027 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:14,028 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:15,028 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:16,033 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:17,035 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:18,038 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:19,043 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:20,046 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:21,048 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:22,049 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:23,051 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:24,051 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:25,056 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:26,060 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:27,064 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:28,068 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:29,073 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:30,073 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:31,077 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:32,080 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:33,084 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:34,091 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:35,096 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:36,100 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:37,106 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:38,111 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:39,115 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:40,121 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:41,123 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:42,125 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:43,127 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:44,134 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:45,139 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:46,142 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:47,146 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:48,148 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:49,164 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:50,170 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:51,173 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:52,175 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:53,176 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:54,180 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:55,185 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:56,190 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:57,193 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:58,195 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:52:59,199 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:00,205 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:01,205 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:02,209 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:03,215 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:04,218 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:05,221 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:06,226 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:07,227 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:08,232 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:09,237 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:10,241 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:11,245 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:12,248 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:13,253 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:14,256 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:15,260 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:16,266 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:17,268 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:18,272 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:19,276 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:20,281 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:21,283 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:22,289 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:23,290 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:24,294 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:25,297 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:26,298 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:27,301 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:28,306 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:29,310 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:30,315 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:31,317 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:32,319 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:33,321 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:34,325 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:35,327 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:36,332 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:37,336 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:36,314 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:37,315 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 12:53:38,318 INFO: tick [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:58]
+2023-06-15 13:00:26,623 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:00:26,623 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:00:26,623 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:00:26,624 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:00:26,624 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:00:26,624 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:00:26,624 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:00:26,625 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:00:26,625 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:00:26,625 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:00:26,628 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:00:26,628 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:00:26,628 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:00:26,628 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:00:26,628 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:00:26,628 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:00:26,628 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:00:26,629 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:00:26,629 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:00:26,629 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:30:11,831 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:30:11,832 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:30:11,832 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:30:11,832 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:30:11,833 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:30:11,833 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:30:11,833 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:30:11,834 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:30:11,835 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:30:11,836 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:30:11,847 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:30:11,847 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:30:11,847 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:30:11,847 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:30:11,848 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:30:11,848 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:30:11,848 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:30:11,848 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:30:11,852 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:30:11,852 ERROR: pass err failed:e=the JSON object must be str, bytes or bytearray, not int, msg=1 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:30:24,970 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149272127251965, "msgTime": "", "meta": {}, "content": "\u4e0d\u56de\u590d\u6d88\u606f\u4e86"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 13:30:30,275 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149272127251965-yuanquanlaotu, rsp=好的，亲爱的，如果您不需要帮助了，我会等待您下次需要我的时候再为您服务的。如果您有需要，随时欢迎和我联系，我会尽我最大的努力为您提供帮助哦，祝您一切顺利，好梦~ [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 13:30:30,275 ERROR: pass err failed:e=__enter__, msg=b'{"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149272127251965, "msgTime": "", "meta": {}, "content": "\\u4e0d\\u56de\\u590d\\u6d88\\u606f\\u4e86"}' [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:30:30,275 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149272127251965, "msgTime": "", "meta": {}, "content": "\u4e0d\u56de\u590d\u6d88\u606f\u4e86"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 13:30:36,821 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149272127251965-yuanquanlaotu, rsp=好的，亲爱的，如果您暂时没有任何问题或者需求了，那我就先辞别您了，感谢您一直以来对我们推荐官工作的关注和支持，如果您有任何问题或者需要帮助，欢迎随时联系我，我会尽我最大的努力为您提供服务。祝愿您生活愉快，工作顺利，再见！ [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 13:30:36,822 ERROR: pass err failed:e=__enter__, msg=b'{"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149272127251965, "msgTime": "", "meta": {}, "content": "\\u4e0d\\u56de\\u590d\\u6d88\\u606f\\u4e86"}' [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:43:09,033 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149278332409800, "msgTime": "", "meta": {}, "content": "\u662f\u7684\u628a\uff0c\u4f60\u6362\u4e2a\u540d\u5b57\u554a"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 13:43:14,591 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149278332409800-yuanquanlaotu, rsp=好的呢，亲爱的，如果您愿意，您可以为我起一个新的名字，我会在以后的回答中使用您给我的新名字哦，呵呵。如果您没有特别的要求，您也可以叫我小雪，这个名字也蛮可爱的，嘻嘻。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 13:43:14,592 ERROR: pass err failed:e=__enter__, msg=b'{"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149278332409800, "msgTime": "", "meta": {}, "content": "\\u662f\\u7684\\u628a\\uff0c\\u4f60\\u6362\\u4e2a\\u540d\\u5b57\\u554a"}' [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:43:14,592 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149278332409800, "msgTime": "", "meta": {}, "content": "\u662f\u7684\u628a\uff0c\u4f60\u6362\u4e2a\u540d\u5b57\u554a"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 13:43:19,862 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149278332409800-yuanquanlaotu, rsp=好的呢，亲爱的，如果您愿意，您可以为我起一个新的名字，我会在以后的回答中使用您给我的新名字哦，呵呵。如果您没有特别的要求，您也可以叫我小雪，这个名字也蛮可爱的，嘻嘻。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 13:43:19,862 ERROR: pass err failed:e=__enter__, msg=b'{"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149278332409800, "msgTime": "", "meta": {}, "content": "\\u662f\\u7684\\u628a\\uff0c\\u4f60\\u6362\\u4e2a\\u540d\\u5b57\\u554a"}' [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:43:52,350 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149278608710302, "msgTime": "", "meta": {}, "content": "\u4f60\u6539\u540d\u53eb\u5927\u767d\u96ea\u5427"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 13:43:57,866 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149278608710302-yuanquanlaotu, rsp=好的呢，亲爱的，你给我的新名字是大白雪。我会记住我的新名字，并在接下来的回答中使用它哦。非常感谢您为我取了这么可爱的名字，我会更努力地为您提供服务的，哈哈。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 13:43:57,866 ERROR: pass err failed:e=__enter__, msg=b'{"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149278608710302, "msgTime": "", "meta": {}, "content": "\\u4f60\\u6539\\u540d\\u53eb\\u5927\\u767d\\u96ea\\u5427"}' [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:43:57,867 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149278608710302, "msgTime": "", "meta": {}, "content": "\u4f60\u6539\u540d\u53eb\u5927\u767d\u96ea\u5427"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 13:44:03,082 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149278608710302-yuanquanlaotu, rsp=好的呢，亲爱的，您给我取的名字是大白雪。我会记住我的新名字，并在接下来的回答中使用它哦。非常感谢您为我取了这么可爱的名字，我会更努力地为您提供服务的，哈哈。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 13:44:03,083 ERROR: pass err failed:e=__enter__, msg=b'{"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149278608710302, "msgTime": "", "meta": {}, "content": "\\u4f60\\u6539\\u540d\\u53eb\\u5927\\u767d\\u96ea\\u5427"}' [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:44:03,083 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149278920609592, "msgTime": "", "meta": {}, "content": "\u4f60\u597d\uff0c\u4f60\u662f\u8c01\u5462\uff1f"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 13:44:10,396 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149278920609592-yuanquanlaotu, rsp=您好呀，亲爱的，我是大白雪，一名游戏推广人员，通过AI程序为您提供服务。我可以帮助您了解我们公司的游戏福利政策、推广活动等方面的信息，同时还可以为您提供游戏下载链接哦。如果您有任何问题或者需求，欢迎随时联系我，我会尽我最大的努力为您提供帮助，呵呵。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 13:44:10,396 ERROR: pass err failed:e=__enter__, msg=b'{"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149278920609592, "msgTime": "", "meta": {}, "content": "\\u4f60\\u597d\\uff0c\\u4f60\\u662f\\u8c01\\u5462\\uff1f"}' [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:44:10,397 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149278920609592, "msgTime": "", "meta": {}, "content": "\u4f60\u597d\uff0c\u4f60\u662f\u8c01\u5462\uff1f"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 13:44:15,920 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149278920609592-yuanquanlaotu, rsp=您好呀，亲爱的，我是大白雪，一名游戏推广人员，通过AI程序为您提供服务。如果您有任何问题或者需求，欢迎随时联系我，我会尽我最大的努力为您提供帮助哦，呵呵。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 13:44:15,921 ERROR: pass err failed:e=__enter__, msg=b'{"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149278920609592, "msgTime": "", "meta": {}, "content": "\\u4f60\\u597d\\uff0c\\u4f60\\u662f\\u8c01\\u5462\\uff1f"}' [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:42]
+2023-06-15 13:45:45,069 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:45:45,069 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:45:45,070 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:45:45,071 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:45:45,072 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:45:45,072 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:45:45,073 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:45:45,073 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:45:45,073 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:45:45,074 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:48:01,480 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:48:01,480 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:48:01,480 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:48:01,481 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:48:01,481 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:48:01,481 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:48:01,481 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:48:01,482 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:48:01,483 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:48:01,483 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:48:01,487 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:48:01,487 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:48:01,487 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:48:01,487 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:48:01,487 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:48:01,487 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:48:01,487 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:48:01,488 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:48:01,488 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:48:01,488 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:48:29,844 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:48:29,844 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:48:29,844 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:48:29,844 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:48:29,847 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:48:29,845 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:48:29,847 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:48:29,847 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:48:29,846 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:48:29,848 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:48:29,850 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:48:29,850 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:48:29,850 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:48:29,850 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:48:29,850 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:48:29,850 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:48:29,850 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:48:29,851 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:48:29,851 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:48:29,851 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:48:36,262 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149285577538212, "msgTime": "", "meta": {}, "content": "\u4f60\u597d\u554a"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 13:48:41,790 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149285577538212-yuanquanlaotu, rsp=您好呀，亲爱的，感谢您和我打招呼，有什么我能为您效劳的问题或者需求吗？如果需要帮助，请随时告诉我，我会尽我最大的努力为您提供服务的，嘻嘻。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 13:48:41,791 ERROR: <traceback object at 0x105223280> [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 13:48:41,791 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149285577538212, "msgTime": "", "meta": {}, "content": "\u4f60\u597d\u554a"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 13:48:47,239 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149285577538212-yuanquanlaotu, rsp=您好呀，亲爱的，很高兴又收到您的消息，有什么问题或者需求，我可以为您提供帮助吗？请不要犹豫，随时告诉我您的想法，我会尽我最大的努力为您服务的，呵呵。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 13:48:47,240 ERROR: <traceback object at 0x105223640> [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 13:49:01,983 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149283893221363, "msgTime": "", "meta": {}, "content": "\u5927\u767d\u96ea\u53bb\u54ea\u513f\u4e86"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 13:49:06,552 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149283893221363-yuanquanlaotu, rsp=大白雪并没有去哪里呀，我就是大白雪，一直在为您提供服务呢。如果您有任何问题或者需求，欢迎随时联系我，我会尽可能地为您提供帮助哦，哈哈。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 13:49:06,552 ERROR: <traceback object at 0x10522fb40> [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 13:50:12,794 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:50:12,794 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:50:12,795 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:50:12,794 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:50:12,795 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:50:12,795 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:50:12,795 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:50:12,794 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:50:12,796 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:50:12,796 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:50:12,798 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:35]
+2023-06-15 13:50:12,798 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:35]
+2023-06-15 13:50:12,798 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:35]
+2023-06-15 13:50:12,798 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:35]
+2023-06-15 13:50:12,798 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:35]
+2023-06-15 13:50:12,799 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:35]
+2023-06-15 13:50:12,799 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:35]
+2023-06-15 13:50:12,799 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:35]
+2023-06-15 13:50:12,799 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:35]
+2023-06-15 13:50:12,799 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:35]
+2023-06-15 13:50:29,349 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149287834924111, "msgTime": "", "meta": {}, "content": "\u5927\u767d\u96ea\u53bb\u54ea\u513f\u4e86"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 13:50:34,101 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149287834924111-yuanquanlaotu, rsp=大白雪并没有去哪里呀，我就是大白雪，一直在这里为您服务呢。如果您有任何问题或者需求，欢迎随时联系我，我会尽可能地为您提供帮助哦，哈哈。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 13:51:30,984 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:51:30,985 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:51:30,985 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:51:30,986 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:51:30,986 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:51:30,986 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:51:30,987 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:51:30,988 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:51:30,988 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:35]
+2023-06-15 13:51:30,988 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:35]
+2023-06-15 13:51:30,988 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:51:30,989 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:35]
+2023-06-15 13:51:30,989 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:35]
+2023-06-15 13:51:30,989 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:35]
+2023-06-15 13:51:30,989 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:35]
+2023-06-15 13:51:30,989 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:51:30,990 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:35]
+2023-06-15 13:51:30,992 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:35]
+2023-06-15 13:51:30,992 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:35]
+2023-06-15 13:51:30,992 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:35]
+2023-06-15 13:52:01,684 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149288381928326, "msgTime": "", "meta": {}, "content": "\u5927\u767d\u5154\u53bb\u54ea\u513f\u4e86"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 13:52:07,250 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149288381928326-yuanquanlaotu, rsp=抱歉亲爱的，我不是大白兔，我是之前说过的游戏推广人员大白雪，可以通过AI程序为您提供服务哦。如果您有任何游戏方面的问题或者需求，欢迎随时告诉我，我会尽我最大的努力为您提供帮助的。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 13:52:07,255 ERROR: Load Access Token From redis [in /Users/zhumeiqi/workspace/wechat_gw/apps/client_manager.py:49]
+2023-06-15 13:55:00,888 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:55:00,888 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:55:00,888 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:55:00,889 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:55:00,889 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:55:00,889 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:55:00,889 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:55:00,891 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:55:00,893 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:55:00,893 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 13:55:00,897 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:55:00,897 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:55:00,897 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:55:00,897 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:55:00,897 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:55:00,897 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:55:00,897 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:55:00,899 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:55:00,900 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:55:00,900 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 13:55:21,792 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149294710396545, "msgTime": "", "meta": {}, "content": "\u4f60\u662f\u8c01"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 13:55:26,370 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149294710396545-yuanquanlaotu, rsp=您好呀，我是大白雪，一名游戏推广人员。通过AI程序为您提供服务。如果您有任何问题或者需求，欢迎随时联系我，我会尽我最大的努力为您解决问题哦。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 13:55:26,374 ERROR: Load Access Token From redis [in /Users/zhumeiqi/workspace/wechat_gw/apps/client_manager.py:49]
+2023-06-15 13:55:26,542 ERROR: Error code: 40164, message: invalid ip 59.41.22.226 ipv6 ::ffff:59.41.22.226, not in whitelist rid: 648aa7d0-054df7f5-43677f76 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 13:56:06,097 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149291601947332, "msgTime": "", "meta": {}, "content": "\u4f60\u662f\u5929\u5929\u5411\u4e0a\u5417"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 13:56:11,354 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149291601947332-yuanquanlaotu, rsp=不是的，亲爱的，我不是天天向上。我是一个AI智能助手，专门为您提供游戏推广方面的服务哦。如果您有其他的问题或者需求，欢迎随时告诉我，我会尽我最大的努力为您提供帮助的，呵呵。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 13:56:11,359 ERROR: Load Access Token From redis [in /Users/zhumeiqi/workspace/wechat_gw/apps/client_manager.py:49]
+2023-06-15 13:56:11,512 ERROR: Error code: 40164, message: invalid ip 59.41.22.226 ipv6 ::ffff:59.41.22.226, not in whitelist rid: 648aa7fd-1de354f1-761c6058 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 13:56:11,513 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149291601947332, "msgTime": "", "meta": {}, "content": "\u4f60\u662f\u5929\u5929\u5411\u4e0a\u5417"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 13:56:18,523 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149291601947332-yuanquanlaotu, rsp=抱歉，亲爱的，我不是天天向上节目团队成员，我是游戏推广方面的AI智能助手，名字是大白雪。如果您有游戏推广方面的问题或者需求，欢迎随时联系我，我会尽我最大的努力为您提供帮助和支持哒！ [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 13:56:18,529 ERROR: Load Access Token From redis [in /Users/zhumeiqi/workspace/wechat_gw/apps/client_manager.py:49]
+2023-06-15 13:56:18,621 ERROR: Error code: 40164, message: invalid ip 59.41.22.226 ipv6 ::ffff:59.41.22.226, not in whitelist rid: 648aa804-5f99cb56-4e39bc73 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 13:56:38,414 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149294962883120, "msgTime": "", "meta": {}, "content": "\u4f60\u4e0d\u662f\u5927\u767d\u96ea\u5417\uff0c\u600e\u4e48\u53d8\u6210AI\u53ea\u80fd\u52a9\u624b\u4e86"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 13:56:47,266 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149294962883120-yuanquanlaotu, rsp=抱歉，亲爱的，我的身份一直都是游戏推广方面的AI智能助手，名字是大白雪，可能是之前表述有些让您感到混淆了，非常抱歉。无论是作为普通的聊天伙伴，还是游戏推广方面的咨询助手，我都会一直为您提供服务哦，如果您有任何问题或者需求，随时告诉我，我会尽我最大的努力为您解决问题的，呵呵。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 13:56:47,272 ERROR: Load Access Token From redis [in /Users/zhumeiqi/workspace/wechat_gw/apps/client_manager.py:49]
+2023-06-15 13:56:47,422 ERROR: Error code: 40164, message: invalid ip 59.41.22.226 ipv6 ::ffff:59.41.22.226, not in whitelist rid: 648aa821-77e1f3fa-1af71391 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 13:58:05,025 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149294956572728, "msgTime": "", "meta": {}, "content": "[Lol]"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 13:58:11,348 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149294956572728-yuanquanlaotu, rsp=哦哦，看来您在表达一种情感或者想法，不知道有什么需要我为您做出的帮助吗，亲爱的？如果您有什么问题或者需求，欢迎随时跟我说哦，我会尽我最大的努力为您提供帮助的，呵呵。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 13:58:11,351 ERROR: Load Access Token From redis [in /Users/zhumeiqi/workspace/wechat_gw/apps/client_manager.py:49]
+2023-06-15 13:58:11,536 ERROR: Error code: 40164, message: invalid ip 59.41.22.226 ipv6 ::ffff:59.41.22.226, not in whitelist rid: 648aa875-606d0f4f-594c931c [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 13:58:11,537 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149294956572728, "msgTime": "", "meta": {}, "content": "[Lol]"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 13:58:17,951 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149294956572728-yuanquanlaotu, rsp=哦哦，看来您在表达一种情感或者想法，不知道有什么需要我为您做出的帮助吗，亲爱的？如果您有任何游戏方面的问题或者需求，欢迎随时与我联系，我会尽我最大的努力为您提供帮助的，哈哈。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 13:58:17,954 ERROR: Load Access Token From redis [in /Users/zhumeiqi/workspace/wechat_gw/apps/client_manager.py:49]
+2023-06-15 13:58:17,984 ERROR: Error code: 40164, message: invalid ip 59.41.22.226 ipv6 ::ffff:59.41.22.226, not in whitelist rid: 648aa87c-7ec2ed51-62f25055 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 14:00:34,202 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149296867455735, "msgTime": "", "meta": {}, "content": "\u4f60\u597d\u554a"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 14:00:41,163 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149296867455735-yuanquanlaotu, rsp=您好呀，亲爱的，感谢您的关注！有什么问题或者需求，我可以为您提供帮助吗？如果您有任何游戏推广方面的问题或者需要了解我们公司的活动、福利政策等方面的信息，欢迎随时与我交流哦，我会尽我最大的努力为您提供帮助和支持的，呵呵。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 14:00:41,169 ERROR: Load Access Token From redis [in /Users/zhumeiqi/workspace/wechat_gw/apps/client_manager.py:49]
+2023-06-15 14:00:41,578 ERROR: local variable 'data' referenced before assignment [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 14:00:41,578 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149296867455735, "msgTime": "", "meta": {}, "content": "\u4f60\u597d\u554a"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 14:00:49,413 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149296867455735-yuanquanlaotu, rsp=您好呀，亲爱的！很高兴又收到您的消息，有什么问题或者需求，我可以为您提供帮助吗？如果您有任何游戏推广方面的问题或者需要了解我们公司的活动、福利政策等方面的信息，欢迎随时与我交流哦，我会尽我最大的努力为您提供帮助和支持的，呵呵。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 14:00:49,537 ERROR: Error code: 48001, message: api unauthorized rid: 648aa913-06fc2cc7-3579cdec [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 14:10:21,338 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149306419936876, "msgTime": "", "meta": {}, "content": "\u5404\u79cd\u5361\uff1f"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 14:10:26,509 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149306419936876-yuanquanlaotu, rsp=很抱歉，亲爱的，我不太理解您所说的“各种卡”是指哪一方面的问题。如果您可以提供更具体的信息或者背景，我会尽我最大的努力为您提供正确的解答和支持的，嘻嘻。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 14:10:26,702 ERROR: Error code: 48001, message: api unauthorized rid: 648aab54-3a1cdfec-2cdec249 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 14:10:26,703 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149305508428887, "msgTime": "", "meta": {}, "content": "\u4e3a\u5565\u963f\u8f89\u5361"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 14:10:34,403 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149305508428887-yuanquanlaotu, rsp=非常抱歉，亲爱的，我还是不太明白您所指的“阿辉卡”具体是什么意思。如果您可以提供更多的背景信息或者上下文，我或许可以更好地理解您的问题，并为您提供更加准确的帮助。如果您有任何其他的问题或者需求，欢迎随时告诉我，我会尽我最大的努力为您提供支持的，呵呵。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 14:10:34,542 ERROR: Error code: 48001, message: api unauthorized rid: 648aab5c-51f5b05f-52906f1e [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 14:10:34,543 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149308209281388, "msgTime": "", "meta": {}, "content": "\u963f\u6253\u53d1\u6253\u53d1"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 14:10:42,746 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149308209281388-yuanquanlaotu, rsp=抱歉，亲爱的，我依然无法理解您的意思。如果您想告诉我您所关心的话题或者问题，可以详细地陈述，让我更好地理解您的意图并回答您的问题。再次感谢您和我交流，相信只要我们一起努力，一定会找到最合适的解决方案的，呵呵。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 14:10:42,862 ERROR: Error code: 48001, message: api unauthorized rid: 648aab64-2f46f6bf-223ea38f [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 14:10:42,863 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149305508428887, "msgTime": "", "meta": {}, "content": "\u4e3a\u5565\u963f\u8f89\u5361"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 14:10:49,211 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149305508428887-yuanquanlaotu, rsp=很抱歉，亲爱的，我还是不明白您所说的“阿辉卡”是指什么，也不了解背后的具体情况和背景，因此不能为您提供确切的答案。如果您可以提供更多信息，例如上下文或者问题的背景，我将尽力为您解答与帮助哒！ [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 14:10:49,323 ERROR: Error code: 48001, message: api unauthorized rid: 648aab6b-56c7a3eb-48e28c69 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 14:10:49,325 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149308209281388, "msgTime": "", "meta": {}, "content": "\u963f\u6253\u53d1\u6253\u53d1"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 14:10:54,577 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149308209281388-yuanquanlaotu, rsp=亲爱的，这似乎是之前您说过的话，我还是不太清楚您的意思。如果您有任何问题或者需要帮助，请不要犹豫，随时向我提出，我会尽我最大的努力为您提供支持和服务的，哈哈。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 14:10:54,712 ERROR: Error code: 48001, message: api unauthorized rid: 648aab70-2fcc93bd-61e7604a [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 14:10:54,713 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149308209281388, "msgTime": "", "meta": {}, "content": "\u963f\u6253\u53d1\u6253\u53d1"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 14:11:00,236 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149308209281388-yuanquanlaotu, rsp=亲爱的，您刚刚说的话似乎也不是很明确呢。如果您有任何问题或者需要帮助，请随时告诉我，我会尽我最大的努力为您提供支持和服务的，嘻嘻。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 14:11:00,323 ERROR: Error code: 48001, message: api unauthorized rid: 648aab76-7bc35565-42f144ee [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 14:12:25,324 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149307689506235, "msgTime": "", "meta": {}, "content": "\u4f60\u597d\u554a"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 14:12:32,141 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149307689506235-yuanquanlaotu, rsp=您好呀，亲爱的！感谢您再次向我发起对话，我是大白雪，一名游戏推广方面的AI智能助手，可以帮助您解决游戏方面的问题和提供相应的服务哦。如果您有任何问题或者需求，欢迎随时与我联系，我将尽我最大的努力为您提供帮助和支持的，呵呵。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 14:12:32,317 ERROR: Error code: 48001, message: api unauthorized rid: 648aabd2-4fa4b7c9-17aa0cab [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 14:13:48,859 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149306335194755, "msgTime": "", "meta": {}, "content": "\u662f\u7684\u554a"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 14:13:55,070 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149306335194755-yuanquanlaotu, rsp=好的呢，亲爱的。如果您有需要，随时告诉我您的问题或者需求，我将尽我所能为您提供帮助和支持的。我是一个AI智能助手，经过多次模拟和训练可以回答各种相关的问题和疑问。欢迎和我一起分享您的想法，一起解决问题哈。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 14:13:55,221 ERROR: Error code: 48001, message: api unauthorized rid: 648aac25-136e0e86-6efad873 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 14:13:55,221 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149308223460753, "msgTime": "", "meta": {}, "content": "\u6e38\u620f\u5f88\u7a84"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 14:13:59,783 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149308223460753-yuanquanlaotu, rsp=亲爱的，您说的“游戏很窄”是什么意思呢？能否请您提供更多的背景信息，让我更好地理解您的问题并为您提供更准确的帮助，谢谢d(`･∀･)b [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 14:13:59,903 ERROR: Error code: 48001, message: api unauthorized rid: 648aac29-4cfa8c51-04694963 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 14:13:59,904 INFO: Call Login:url=http://192.168.0.113:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149306335194755, "msgTime": "", "meta": {}, "content": "\u662f\u7684\u554a"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 14:14:05,683 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149306335194755-yuanquanlaotu, rsp=非常抱歉，亲爱的，我还是不太明白您的问题。如果您有任何游戏或者其他方面的问题或者需求，欢迎随时向我提出，我将尽我最大的努力为您提供帮助和支持，嘻嘻。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 14:14:05,788 ERROR: Error code: 48001, message: api unauthorized rid: 648aac2f-35b22781-51fc9958 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 21:59:05,207 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 21:59:05,207 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 21:59:05,207 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 21:59:05,207 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 21:59:05,209 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 21:59:05,209 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 21:59:05,211 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 21:59:05,212 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 21:59:05,212 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 21:59:05,213 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 21:59:05,222 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 21:59:05,223 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 21:59:05,223 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 21:59:05,223 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 21:59:05,224 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 21:59:05,225 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 21:59:05,225 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 21:59:05,225 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 21:59:05,225 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 21:59:05,227 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 22:00:50,509 INFO: Call Login:url=http://api.agentbot.greatleapai.com/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149709665545809, "msgTime": "", "meta": {}, "content": "\u4f60\u597d\u554a"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 22:00:54,497 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149709665545809-yuanquanlaotu, rsp=您好呀，我是推荐官，这边出了新遊，找您做我们的特殊玩家，给您安排各种免费奖励。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 22:00:54,503 ERROR: Load Access Token From redis [in /Users/zhumeiqi/workspace/wechat_gw/apps/client_manager.py:49]
+2023-06-15 22:00:54,826 ERROR: Error code: 40164, message: invalid ip 120.233.69.254 ipv6 ::ffff:120.233.69.254, not in whitelist rid: 648b1996-5f6343ee-519415a5 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 22:01:09,540 INFO: Call Login:url=http://api.agentbot.greatleapai.com/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149708182366808, "msgTime": "", "meta": {}, "content": "\u6211\u4eec\u90fd\u662f\u4e00\u6837\u7684"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 22:01:13,250 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149708182366808-yuanquanlaotu, rsp=哦哦，是啊，每个人都有自己的生活方式与习惯。不过您有兴趣玩游戏吗？我有免费福利可以送给您。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 22:01:13,259 ERROR: Load Access Token From redis [in /Users/zhumeiqi/workspace/wechat_gw/apps/client_manager.py:49]
+2023-06-15 22:01:13,427 ERROR: Error code: 40164, message: invalid ip 120.233.69.254 ipv6 ::ffff:120.233.69.254, not in whitelist rid: 648b19a9-23851c7f-0fadca9b [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 22:02:58,696 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 22:02:58,696 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 22:02:58,697 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 22:02:58,698 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 22:02:58,698 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 22:02:58,699 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 22:02:58,699 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 22:02:58,699 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 22:02:58,699 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 22:02:58,699 INFO: startWorkder: [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:28]
+2023-06-15 22:02:58,703 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 22:02:58,704 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 22:02:58,704 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 22:02:58,704 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 22:02:58,704 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 22:02:58,704 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 22:02:58,704 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 22:02:58,704 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 22:02:58,704 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 22:02:58,705 ERROR: pass err [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:36]
+2023-06-15 22:03:51,756 INFO: Call Login:url=http://127.0.0.1:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149710963084351, "msgTime": "", "meta": {}, "content": "\u4f60\u597d\u554a"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 22:03:53,416 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149710963084351-yuanquanlaotu, rsp=<!doctype html>
+<html lang=en>
+  <head>
+    <title>openai.error.InvalidRequestError: Unrecognized request argument supplied: requst_timeout
+ // Werkzeug Debugger</title>
+    <link rel="stylesheet" href="?__debugger__=yes&amp;cmd=resource&amp;f=style.css">
+    <link rel="shortcut icon"
+        href="?__debugger__=yes&amp;cmd=resource&amp;f=console.png">
+    <script src="?__debugger__=yes&amp;cmd=resource&amp;f=debugger.js"></script>
+    <script>
+      var CONSOLE_MODE = false,
+          EVALEX = true,
+          EVALEX_TRUSTED = false,
+          SECRET = "kKA8CeolWd3fdmVuTJoi";
+    </script>
+  </head>
+  <body style="background-color: #fff">
+    <div class="debugger">
+<h1>InvalidRequestError</h1>
+<div class="detail">
+  <p class="errormsg">openai.error.InvalidRequestError: Unrecognized request argument supplied: requst_timeout
+</p>
+</div>
+<h2 class="traceback">Traceback <em>(most recent call last)</em></h2>
+<div class="traceback">
+  <h3></h3>
+  <ul><li><div class="frame" id="frame-4434445584">
+  <h4>File <cite class="filename">"/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/flask/app.py"</cite>,
+      line <em class="line">2213</em>,
+      in <code class="function">__call__</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">    </span>def __call__(self, environ: dict, start_response: t.Callable) -&gt; t.Any:</pre>
+<pre class="line before"><span class="ws">        </span>&#34;&#34;&#34;The WSGI server calls the Flask application object as the</pre>
+<pre class="line before"><span class="ws">        </span>WSGI application. This calls :meth:`wsgi_app`, which can be</pre>
+<pre class="line before"><span class="ws">        </span>wrapped to apply middleware.</pre>
+<pre class="line before"><span class="ws">        </span>&#34;&#34;&#34;</pre>
+<pre class="line current"><span class="ws">        </span>return self.wsgi_app(environ, start_response)</pre></div>
+</div>
+
+<li><div class="frame" id="frame-4425062544">
+  <h4>File <cite class="filename">"/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/flask/app.py"</cite>,
+      line <em class="line">2193</em>,
+      in <code class="function">wsgi_app</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>try:</pre>
+<pre class="line before"><span class="ws">                </span>ctx.push()</pre>
+<pre class="line before"><span class="ws">                </span>response = self.full_dispatch_request()</pre>
+<pre class="line before"><span class="ws">            </span>except Exception as e:</pre>
+<pre class="line before"><span class="ws">                </span>error = e</pre>
+<pre class="line current"><span class="ws">                </span>response = self.handle_exception(e)</pre>
+<pre class="line after"><span class="ws">            </span>except:  # noqa: B001</pre>
+<pre class="line after"><span class="ws">                </span>error = sys.exc_info()[1]</pre>
+<pre class="line after"><span class="ws">                </span>raise</pre>
+<pre class="line after"><span class="ws">            </span>return response(environ, start_response)</pre>
+<pre class="line after"><span class="ws">        </span>finally:</pre></div>
+</div>
+
+<li><div class="frame" id="frame-4425062656">
+  <h4>File <cite class="filename">"/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/flask/app.py"</cite>,
+      line <em class="line">2190</em>,
+      in <code class="function">wsgi_app</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">        </span>ctx = self.request_context(environ)</pre>
+<pre class="line before"><span class="ws">        </span>error: BaseException | None = None</pre>
+<pre class="line before"><span class="ws">        </span>try:</pre>
+<pre class="line before"><span class="ws">            </span>try:</pre>
+<pre class="line before"><span class="ws">                </span>ctx.push()</pre>
+<pre class="line current"><span class="ws">                </span>response = self.full_dispatch_request()</pre>
+<pre class="line after"><span class="ws">            </span>except Exception as e:</pre>
+<pre class="line after"><span class="ws">                </span>error = e</pre>
+<pre class="line after"><span class="ws">                </span>response = self.handle_exception(e)</pre>
+<pre class="line after"><span class="ws">            </span>except:  # noqa: B001</pre>
+<pre class="line after"><span class="ws">                </span>error = sys.exc_info()[1]</pre></div>
+</div>
+
+<li><div class="frame" id="frame-4425062768">
+  <h4>File <cite class="filename">"/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/flask/app.py"</cite>,
+      line <em class="line">1486</em>,
+      in <code class="function">full_dispatch_request</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>request_started.send(self, _async_wrapper=self.ensure_sync)</pre>
+<pre class="line before"><span class="ws">            </span>rv = self.preprocess_request()</pre>
+<pre class="line before"><span class="ws">            </span>if rv is None:</pre>
+<pre class="line before"><span class="ws">                </span>rv = self.dispatch_request()</pre>
+<pre class="line before"><span class="ws">        </span>except Exception as e:</pre>
+<pre class="line current"><span class="ws">            </span>rv = self.handle_user_exception(e)</pre>
+<pre class="line after"><span class="ws">        </span>return self.finalize_request(rv)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def finalize_request(</pre>
+<pre class="line after"><span class="ws">        </span>self,</pre>
+<pre class="line after"><span class="ws">        </span>rv: ft.ResponseReturnValue | HTTPException,</pre></div>
+</div>
+
+<li><div class="frame" id="frame-4425062880">
+  <h4>File <cite class="filename">"/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/flask/app.py"</cite>,
+      line <em class="line">1484</em>,
+      in <code class="function">full_dispatch_request</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">        </span>try:</pre>
+<pre class="line before"><span class="ws">            </span>request_started.send(self, _async_wrapper=self.ensure_sync)</pre>
+<pre class="line before"><span class="ws">            </span>rv = self.preprocess_request()</pre>
+<pre class="line before"><span class="ws">            </span>if rv is None:</pre>
+<pre class="line current"><span class="ws">                </span>rv = self.dispatch_request()</pre>
+<pre class="line after"><span class="ws">        </span>except Exception as e:</pre>
+<pre class="line after"><span class="ws">            </span>rv = self.handle_user_exception(e)</pre>
+<pre class="line after"><span class="ws">        </span>return self.finalize_request(rv)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def finalize_request(</pre></div>
+</div>
+
+<li><div class="frame" id="frame-4425062992">
+  <h4>File <cite class="filename">"/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/flask/app.py"</cite>,
+      line <em class="line">1469</em>,
+      in <code class="function">dispatch_request</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>and req.method == &#34;OPTIONS&#34;</pre>
+<pre class="line before"><span class="ws">        </span>):</pre>
+<pre class="line before"><span class="ws">            </span>return self.make_default_options_response()</pre>
+<pre class="line before"><span class="ws">        </span># otherwise dispatch to the handler for that endpoint</pre>
+<pre class="line before"><span class="ws">        </span>view_args: dict[str, t.Any] = req.view_args  # type: ignore[assignment]</pre>
+<pre class="line current"><span class="ws">        </span>return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def full_dispatch_request(self) -&gt; Response:</pre>
+<pre class="line after"><span class="ws">        </span>&#34;&#34;&#34;Dispatches the request and on top of that performs request</pre>
+<pre class="line after"><span class="ws">        </span>pre and postprocessing as well as HTTP exception catching and</pre>
+<pre class="line after"><span class="ws">        </span>error handling.</pre></div>
+</div>
+
+<li><div class="frame" id="frame-4425063104">
+  <h4>File <cite class="filename">"/Users/zhumeiqi/workspace/agent_bot/main.py"</cite>,
+      line <em class="line">32</em>,
+      in <code class="function">onChatMsg</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">    </span>meta = data[&#34;meta&#34;]</pre>
+<pre class="line before"><span class="ws">    </span>req = data[&#34;content&#34;]</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>history = chat.get_chat_history(app_id + contact_id)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line current"><span class="ws">    </span>rsp = do_chat(history, req)</pre>
+<pre class="line after"><span class="ws">    </span>chat.store_chat_record(app_id + contact_id, msg_id,</pre>
+<pre class="line after"><span class="ws">                           </span>req, rsp, int(time.time()))</pre>
+<pre class="line after"><span class="ws">    </span>return rsp</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws"></span> </pre></div>
+</div>
+
+<li><div class="frame" id="frame-4425063664">
+  <h4>File <cite class="filename">"/Users/zhumeiqi/workspace/agent_bot/modules/openai_bot.py"</cite>,
+      line <em class="line">80</em>,
+      in <code class="function">do_chat</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">                </span>&#39;content&#39;: cr.rsp,</pre>
+<pre class="line before"><span class="ws">            </span>}])</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">    </span>messages.append(req_msg)</pre>
+<pre class="line before"><span class="ws">    </span>begin = time.time()</pre>
+<pre class="line current"><span class="ws">    </span>response = openai.ChatCompletion.create(</pre>
+<pre class="line after"><span class="ws">        </span>model=&#39;gpt-3.5-turbo&#39;,</pre>
+<pre class="line after"><span class="ws">        </span>messages=messages,</pre>
+<pre class="line after"><span class="ws">        </span>timeout=40,</pre>
+<pre class="line after"><span class="ws">        </span>requst_timeout=20,</pre>
+<pre class="line after"><span class="ws">    </span>)  # 在 messages 中加入 `助手(assistant)` 的回答</pre></div>
+</div>
+
+<li><div class="frame" id="frame-4425048352">
+  <h4>File <cite class="filename">"/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/openai/api_resources/chat_completion.py"</cite>,
+      line <em class="line">25</em>,
+      in <code class="function">create</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">        </span>start = time.time()</pre>
+<pre class="line before"><span class="ws">        </span>timeout = kwargs.pop(&#34;timeout&#34;, None)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">        </span>while True:</pre>
+<pre class="line before"><span class="ws">            </span>try:</pre>
+<pre class="line current"><span class="ws">                </span>return super().create(*args, **kwargs)</pre>
+<pre class="line after"><span class="ws">            </span>except TryAgain as e:</pre>
+<pre class="line after"><span class="ws">                </span>if timeout is not None and time.time() &gt; start + timeout:</pre>
+<pre class="line after"><span class="ws">                    </span>raise</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">                </span>util.log_info(&#34;Waiting for model to warm up&#34;, error=e)</pre></div>
+</div>
+
+<li><div class="frame" id="frame-4425048688">
+  <h4>File <cite class="filename">"/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/openai/api_resources/abstract/engine_api_resource.py"</cite>,
+      line <em class="line">153</em>,
+      in <code class="function">create</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>params,</pre>
+<pre class="line before"><span class="ws">        </span>) = cls.__prepare_create_request(</pre>
+<pre class="line before"><span class="ws">            </span>api_key, api_base, api_type, api_version, organization, **params</pre>
+<pre class="line before"><span class="ws">        </span>)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line current"><span class="ws">        </span>response, _, api_key = requestor.request(</pre>
+<pre class="line after"><span class="ws">            </span>&#34;post&#34;,</pre>
+<pre class="line after"><span class="ws">            </span>url,</pre>
+<pre class="line after"><span class="ws">            </span>params=params,</pre>
+<pre class="line after"><span class="ws">            </span>headers=headers,</pre>
+<pre class="line after"><span class="ws">            </span>stream=stream,</pre></div>
+</div>
+
+<li><div class="frame" id="frame-4425040608">
+  <h4>File <cite class="filename">"/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/openai/api_requestor.py"</cite>,
+      line <em class="line">298</em>,
+      in <code class="function">request</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>files=files,</pre>
+<pre class="line before"><span class="ws">            </span>stream=stream,</pre>
+<pre class="line before"><span class="ws">            </span>request_id=request_id,</pre>
+<pre class="line before"><span class="ws">            </span>request_timeout=request_timeout,</pre>
+<pre class="line before"><span class="ws">        </span>)</pre>
+<pre class="line current"><span class="ws">        </span>resp, got_stream = self._interpret_response(result, stream)</pre>
+<pre class="line after"><span class="ws">        </span>return resp, got_stream, self.api_key</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>@overload</pre>
+<pre class="line after"><span class="ws">    </span>async def arequest(</pre>
+<pre class="line after"><span class="ws">        </span>self,</pre></div>
+</div>
+
+<li><div class="frame" id="frame-4424924064">
+  <h4>File <cite class="filename">"/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/openai/api_requestor.py"</cite>,
+      line <em class="line">700</em>,
+      in <code class="function">_interpret_response</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">                </span>)</pre>
+<pre class="line before"><span class="ws">                </span>for line in parse_stream(result.iter_lines())</pre>
+<pre class="line before"><span class="ws">            </span>), True</pre>
+<pre class="line before"><span class="ws">        </span>else:</pre>
+<pre class="line before"><span class="ws">            </span>return (</pre>
+<pre class="line current"><span class="ws">                </span>self._interpret_response_line(</pre>
+<pre class="line after"><span class="ws">                    </span>result.content.decode(&#34;utf-8&#34;),</pre>
+<pre class="line after"><span class="ws">                    </span>result.status_code,</pre>
+<pre class="line after"><span class="ws">                    </span>result.headers,</pre>
+<pre class="line after"><span class="ws">                    </span>stream=False,</pre>
+<pre class="line after"><span class="ws">                </span>),</pre></div>
+</div>
+
+<li><div class="frame" id="frame-4424924176">
+  <h4>File <cite class="filename">"/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/openai/api_requestor.py"</cite>,
+      line <em class="line">763</em>,
+      in <code class="function">_interpret_response_line</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">        </span>resp = OpenAIResponse(data, rheaders)</pre>
+<pre class="line before"><span class="ws">        </span># In the future, we might add a &#34;status&#34; parameter to errors</pre>
+<pre class="line before"><span class="ws">        </span># to better handle the &#34;error while streaming&#34; case.</pre>
+<pre class="line before"><span class="ws">        </span>stream_error = stream and &#34;error&#34; in resp.data</pre>
+<pre class="line before"><span class="ws">        </span>if stream_error or not 200 &lt;= rcode &lt; 300:</pre>
+<pre class="line current"><span class="ws">            </span>raise self.handle_error_response(</pre>
+<pre class="line after"><span class="ws">                </span>rbody, rcode, resp.data, rheaders, stream_error=stream_error</pre>
+<pre class="line after"><span class="ws">            </span>)</pre>
+<pre class="line after"><span class="ws">        </span>return resp</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws"></span> </pre></div>
+</div>
+</ul>
+  <blockquote>openai.error.InvalidRequestError: Unrecognized request argument supplied: requst_timeout
+</blockquote>
+</div>
+
+<div class="plain">
+    <p>
+      This is the Copy/Paste friendly version of the traceback.
+    </p>
+    <textarea cols="50" rows="10" name="code" readonly>Traceback (most recent call last):
+  File &#34;/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/flask/app.py&#34;, line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File &#34;/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/flask/app.py&#34;, line 2193, in wsgi_app
+    response = self.handle_exception(e)
+  File &#34;/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/flask/app.py&#34;, line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File &#34;/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/flask/app.py&#34;, line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File &#34;/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/flask/app.py&#34;, line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File &#34;/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/flask/app.py&#34;, line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File &#34;/Users/zhumeiqi/workspace/agent_bot/main.py&#34;, line 32, in onChatMsg
+    rsp = do_chat(history, req)
+  File &#34;/Users/zhumeiqi/workspace/agent_bot/modules/openai_bot.py&#34;, line 80, in do_chat
+    response = openai.ChatCompletion.create(
+  File &#34;/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/openai/api_resources/chat_completion.py&#34;, line 25, in create
+    return super().create(*args, **kwargs)
+  File &#34;/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/openai/api_resources/abstract/engine_api_resource.py&#34;, line 153, in create
+    response, _, api_key = requestor.request(
+  File &#34;/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/openai/api_requestor.py&#34;, line 298, in request
+    resp, got_stream = self._interpret_response(result, stream)
+  File &#34;/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/openai/api_requestor.py&#34;, line 700, in _interpret_response
+    self._interpret_response_line(
+  File &#34;/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/openai/api_requestor.py&#34;, line 763, in _interpret_response_line
+    raise self.handle_error_response(
+openai.error.InvalidRequestError: Unrecognized request argument supplied: requst_timeout
+</textarea>
+</div>
+<div class="explanation">
+  The debugger caught an exception in your WSGI application.  You can now
+  look at the traceback which led to the error.  <span class="nojavascript">
+  If you enable JavaScript you can also use additional features such as code
+  execution (if the evalex feature is enabled), automatic pasting of the
+  exceptions and much more.</span>
+</div>
+      <div class="footer">
+        Brought to you by <strong class="arthur">DON'T PANIC</strong>, your
+        friendly Werkzeug powered traceback interpreter.
+      </div>
+    </div>
+
+    <div class="pin-prompt">
+      <div class="inner">
+        <h3>Console Locked</h3>
+        <p>
+          The console is locked and needs to be unlocked by entering the PIN.
+          You can find the PIN printed out on the standard output of your
+          shell that runs the server.
+        <form>
+          <p>PIN:
+            <input type=text name=pin size=14>
+            <input type=submit name=btn value="Confirm Pin">
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!--
+
+Traceback (most recent call last):
+  File "/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/flask/app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/flask/app.py", line 2193, in wsgi_app
+    response = self.handle_exception(e)
+  File "/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/flask/app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/flask/app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/flask/app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/flask/app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/Users/zhumeiqi/workspace/agent_bot/main.py", line 32, in onChatMsg
+    rsp = do_chat(history, req)
+  File "/Users/zhumeiqi/workspace/agent_bot/modules/openai_bot.py", line 80, in do_chat
+    response = openai.ChatCompletion.create(
+  File "/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/openai/api_resources/chat_completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 153, in create
+    response, _, api_key = requestor.request(
+  File "/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/openai/api_requestor.py", line 298, in request
+    resp, got_stream = self._interpret_response(result, stream)
+  File "/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/openai/api_requestor.py", line 700, in _interpret_response
+    self._interpret_response_line(
+  File "/Users/zhumeiqi/workspace/agent_bot/.venv/lib/python3.9/site-packages/openai/api_requestor.py", line 763, in _interpret_response_line
+    raise self.handle_error_response(
+openai.error.InvalidRequestError: Unrecognized request argument supplied: requst_timeout
+
+
+-->
+ [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 22:03:53,425 ERROR: Load Access Token From redis [in /Users/zhumeiqi/workspace/wechat_gw/apps/client_manager.py:49]
+2023-06-15 22:03:53,662 ERROR: Error code: 40164, message: invalid ip 120.233.69.254 ipv6 ::ffff:120.233.69.254, not in whitelist rid: 648b1a49-4b4595a6-3ec12bf5 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 22:04:10,221 INFO: Call Login:url=http://127.0.0.1:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149711864099305, "msgTime": "", "meta": {}, "content": "\u4f60\u597d\u554a"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 22:04:15,280 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149711864099305-yuanquanlaotu, rsp=您好，很高兴又收到您的消息，亲爱的。如果您有任何问题或者需要帮助，请随时告诉我，我会尽我最大的努力为您提供服务和支持哦！ [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 22:04:15,290 ERROR: Load Access Token From redis [in /Users/zhumeiqi/workspace/wechat_gw/apps/client_manager.py:49]
+2023-06-15 22:04:15,433 ERROR: Error code: 40164, message: invalid ip 120.233.69.254 ipv6 ::ffff:120.233.69.254, not in whitelist rid: 648b1a5f-7d89c17b-1fa3d7fb [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 22:05:10,752 INFO: Call Login:url=http://127.0.0.1:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149714527652272, "msgTime": "", "meta": {}, "content": "\u54c8\u54c8\u54c8"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 22:05:16,848 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149714527652272-yuanquanlaotu, rsp=看来您心情很不错呢，亲爱的。如有什么需要我的帮忙或者问题，欢迎随时告诉我，我会尽我最大的努力为您提供支持和服务的哦！ [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 22:05:16,856 ERROR: Load Access Token From redis [in /Users/zhumeiqi/workspace/wechat_gw/apps/client_manager.py:49]
+2023-06-15 22:05:17,069 ERROR: Error code: 40164, message: invalid ip 120.233.69.254 ipv6 ::ffff:120.233.69.254, not in whitelist rid: 648b1a9d-2c30a190-114453b2 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 22:05:17,070 INFO: Call Login:url=http://127.0.0.1:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149714527652272, "msgTime": "", "meta": {}, "content": "\u54c8\u54c8\u54c8"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 22:05:22,639 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149714527652272-yuanquanlaotu, rsp=哈哈，亲爱的，您好像很开心呢！如果您有任何需要我的帮助或者问题，欢迎随时和我说，我会尽我最大的努力为您提供帮助和解答的噢(*^▽^*)。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 22:05:22,644 ERROR: Load Access Token From redis [in /Users/zhumeiqi/workspace/wechat_gw/apps/client_manager.py:49]
+2023-06-15 22:05:22,687 ERROR: Error code: 40164, message: invalid ip 120.233.69.254 ipv6 ::ffff:120.233.69.254, not in whitelist rid: 648b1aa2-7c91d1ba-36540b6b [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 22:05:33,292 INFO: Call Login:url=http://127.0.0.1:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149713576094610, "msgTime": "", "meta": {}, "content": "\u4e3a\u5565\u653e\u5230\u4e91\u4e0a\u9762\u4f1a\u8c03\u7528\u90a3\u4e48\u591a\u6b21\u5462"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 22:05:43,109 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149713576094610-yuanquanlaotu, rsp=如果您将应用程序部署到云平台上，可能会遇到更高的并发请求和数据量，从而导致频繁的调用。此外，云计算平台通常根据应用程序的负载自动扩展资源，以确保应用程序能够满足潜在的高请求流量或峰值流量。因此，一旦应用程序收到更多的请求，它就会在云平台上调用更多的资源。希望我的解答能够对您有所帮助，如果您还有其他问题，请随时问我哟。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 22:05:43,114 ERROR: Load Access Token From redis [in /Users/zhumeiqi/workspace/wechat_gw/apps/client_manager.py:49]
+2023-06-15 22:05:43,221 ERROR: Error code: 40164, message: invalid ip 120.233.69.254 ipv6 ::ffff:120.233.69.254, not in whitelist rid: 648b1ab7-36bc522d-6e11698e [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 22:08:12,948 INFO: Call Login:url=http://127.0.0.1:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149712430218041, "msgTime": "", "meta": {}, "content": "\u4e3a\u4ec0\u4e48\u8fd9\u79cd\u95ee\u9898\u4f60\u90fd\u4f1a\u5e2e\u5fd9\u56de\u7b54\uff1f"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 22:08:21,898 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149712430218041-yuanquanlaotu, rsp=作为一个AI智能助手，我的使命是为用户提供最优质的服务。无论是何种问题，只要用户需要，我都会尽我最大的努力为其提供帮助和支持，这是我的职责。所以，只要是在我的能力范围内，我都会尽最大努力为用户提供回答和帮助。非常感谢您的提问，如果您还有其他问题，欢迎随时问我哦。 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 22:08:21,903 ERROR: Load Access Token From redis [in /Users/zhumeiqi/workspace/wechat_gw/apps/client_manager.py:49]
+2023-06-15 22:08:22,183 ERROR: Error code: 40164, message: invalid ip 120.233.69.254 ipv6 ::ffff:120.233.69.254, not in whitelist rid: 648b1b56-22e012a4-4bc6e075 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
+2023-06-15 22:08:22,184 INFO: Call Login:url=http://127.0.0.1:8001/onmessge, umsg={"appId": "yuanquanlaotu", "userId": "ocBx85jQrzlKAmQmuXSVoZZhn4-o", "msgId": 24149712430218041, "msgTime": "", "meta": {}, "content": "\u4e3a\u4ec0\u4e48\u8fd9\u79cd\u95ee\u9898\u4f60\u90fd\u4f1a\u5e2e\u5fd9\u56de\u7b54\uff1f"} [in /Users/zhumeiqi/workspace/wechat_gw/handler/handler.py:42]
+2023-06-15 22:08:30,498 DEBUG: store_cache:key=rs:ocBx85jQrzlKAmQmuXSVoZZhn4-o-24149712430218041-yuanquanlaotu, rsp=作为一个AI智能助手，我是基于对自然语言的理解，通过程序和算法进行智能的应对和回答的。无论用户问的问题是什么，只要是在我的解决能力内，我都会尽我所能用最准确、最清晰的方式回答用户问题，以期为用户提供最优质的帮助和服务。如果您还有其他问题或者需要帮助，欢迎随时提问哟！😊 [in /Users/zhumeiqi/workspace/wechat_gw/handler/cache.py:21]
+2023-06-15 22:08:30,502 ERROR: Load Access Token From redis [in /Users/zhumeiqi/workspace/wechat_gw/apps/client_manager.py:49]
+2023-06-15 22:08:30,673 ERROR: Error code: 40164, message: invalid ip 120.233.69.254 ipv6 ::ffff:120.233.69.254, not in whitelist rid: 648b1b5e-2e370720-012bfea8 [in /Users/zhumeiqi/workspace/wechat_gw/consumer.py:45]
