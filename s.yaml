@@ -41,7 +41,6 @@ services:
           vpcId: vpc-bp1g49ossvu9ymrb6jdao
           vswitchIds:
             - vsw-bp1vcvuz42hawt6a5179e
-        internetAccess: true
 
       function:
         name: "flask"
