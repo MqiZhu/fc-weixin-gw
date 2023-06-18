@@ -1,8 +1,10 @@
 # coding=utf-8
 
 import redis
-r = redis.Redis(host='127.0.0.1', port=6379, db=0)
+
+redis_cli = redis.Redis("r-bp1br74bgybp3csnhf.redis.rds.aliyuncs.com",
+                        6379, username='r-bp1br74bgybp3csnhf', password='Redis_Bot')
 
 
 def get_redis_client():
-    return r
+    return redis_cli
