@@ -28,13 +28,21 @@ services:
       region: ${vars.region} # 关于变量的使用方法，可以参考：https://www.serverless-devs.com/serverless-devs/yaml#变量赋值
       service: 
         name: "fc-weixin-gw"
-        description: 'Serverless Devs Web Framework Service'
         logConfig:
         enableRequestMetrics: true
         enableInstanceMetrics: true
         logBeginRule: DefaultRegex
         logstore: function-log      
         internetAccess: true
+        role: acs:ram::1357979013296492:role/AliyunFcDefaultRole
+        description: WX Bot Consumer
+        vpcConfig:
+          securityGroupId: sg-bp1gqj567zrocvgrzpjs
+          vpcId: vpc-bp1g49ossvu9ymrb6jdao
+          vswitchIds:
+            - vsw-bp1vcvuz42hawt6a5179e
+        internetAccess: true
+
       function:
         name: "flask"
         description: 'Serverless Devs Web Framework Function'
@@ -58,12 +66,3 @@ services:
           protocol: HTTP
           routeConfigs:
             - path: '/*'
-      role: acs:ram::1357979013296492:role/AliyunFcDefaultRole
-      description: Serverless Devs Web Framework Service
-     
-      vpcConfig:
-        securityGroupId: sg-bp1gqj567zrocvgrzpjs
-        vpcId: vpc-bp1g49ossvu9ymrb6jdao
-        vswitchIds:
-          - vsw-bp1vcvuz42hawt6a5179e
-
