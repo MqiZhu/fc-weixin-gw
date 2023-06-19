@@ -11,7 +11,7 @@ _apps = {
         "APP_SECRET": "5393aa38f70ce352bcf99b0e9031a0f2",
         "dispatcher": RedisDispatcher(get_redis_client, 10, "yuanquanlaotu"),
         "msgHandler": ToWxApiHandler('http://127.0.0.1:8001/onmessge', ZyWxClient("yuanquanlaotu", "wx22ce550ecb8bb312", "5393aa38f70ce352bcf99b0e9031a0f2", get_redis_client())),
-        "passive": False
+        "passive": True
     },
     "test_qa": {
         "TOKEN": "1234567",
@@ -20,7 +20,7 @@ _apps = {
         "APP_SECRET": "5393aa38f70ce352bcf99b0e9031a0f2",
         "dispatcher": RedisDispatcher(get_redis_client, 10, "yuanquanlaotu"),
         "msgHandler": ToWxApiHandler('http://wj_qa.com:8001/onmessge', ZyWxClient("wj_qa", "wxb864c8e68cb58bb0", "c11aa77998e4f9dde10cb16259d1bdde", get_redis_client())),
-        "passive": True
+        "passive": False
     }
 }
 
