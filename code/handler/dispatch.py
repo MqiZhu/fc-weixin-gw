@@ -137,4 +137,4 @@ class RedisDispatcher(Dispatcher):
             return None
         logger.info("active reply none:app_id={}, source={}, msg_id={}".format(
             app_id, source, msg_id))
-        return create_reply("思考中..稍等", msg).render()
+        return create_reply(None).render()
