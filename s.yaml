@@ -29,10 +29,11 @@ services:
       service: 
         name: "fc-weixin-gw"
         logConfig:
-        enableRequestMetrics: true
-        enableInstanceMetrics: true
-        logBeginRule: DefaultRegex
-        logstore: function-log      
+          enableRequestMetrics: true
+          enableInstanceMetrics: true
+          logBeginRule: DefaultRegex
+          logstore: function-log
+          project: aliyun-fc-cn-hangzhou-32521e6b-9264-5a10-9f8b-5538734b5ce3     
         internetAccess: true
         role: acs:ram::1357979013296492:role/AliyunFcDefaultRole
         description: WX Bot Consumer
