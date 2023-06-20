@@ -197,9 +197,6 @@ class MQDispatcher(Dispatcher):
             app_id, source, msg_id))
         return create_reply(None).render()
 
-    def _dispatch(self, source: str, data: dict):
-        pass
-
 
 class RocketMQDispatcher(MQDispatcher):
 
