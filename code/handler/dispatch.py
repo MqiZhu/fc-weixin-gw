@@ -174,6 +174,8 @@ class MQDispatcher(Dispatcher):
 
         data = {
             "user_id": source,
+            "app_id": app_id,
+            "msg_id": msg_id,
             "to": target,
             "msg": content,
             "type": msg.type,
@@ -181,6 +183,7 @@ class MQDispatcher(Dispatcher):
         }
 
         if not self._dispatch(source, data):
+            logger.warn("dispatch failed")
             return None
 
         if is_passive(app_id):

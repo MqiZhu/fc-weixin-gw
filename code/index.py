@@ -10,15 +10,19 @@ from wechatpy.exceptions import (
     InvalidAppIdException,
 )
 import main
+from common.logger import get_logger
 # set token or get from environments
 app = main.create_app("wechat_gw")
+
 
 @app.route("/")
 def hello():
     return "hello"
 
+
 @app.route("/wechat", methods=["GET", "POST"])
 def wechat():
+    logger = get_logger()
     appName = request.args.get("appid")
     signature = request.args.get("signature", "")
     timestamp = request.args.get("timestamp", "")
@@ -43,10 +47,14 @@ def wechat():
     if encrypt_type == "raw":
         # plaintext mode
         msg = parse_message(request.data)
-        ret = dispath.DispatchMsg(appName, msg)
-        if ret == None:
-            abort(400)
-        return ret
+        try:
+            ret = dispath.DispatchMsg(appName, msg)
+            if ret == None:
+                abort(400)
+            return ret
+        except:
+            logger.error("Catch Error")
+            abort(500)
 
     from wechatpy.crypto import WeChatCrypto
     crypto = WeChatCrypto(token, GetAppAESKeyByName(
@@ -62,8 +70,6 @@ def wechat():
         if ret == None:
             abort(400)
         return ret
-
-
 
 
 if __name__ == "__main__":
