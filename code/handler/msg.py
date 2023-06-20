@@ -17,22 +17,22 @@ class UMsg(object):
     # todo error handling
     def parseFromJson(self, _json: str):
         data: map = json.loads(_json)
-        self.appId = data.get("appId", '')
-        self.contactId = data.get("userId", '')
-        self.msgId = data.get("msgId", '')
-        self.msgType = data.get("msgType", 0)
-        self.msgTime = data.get("msgTime", 0)
-        self.msgContent = data.get("content", 0)
-        self.meta = data["meta"]
+        self.appId = data.get("app_id", '')
+        self.contactId = data.get("user_id", '')
+        self.msgId = data.get("msg_id", '')
+        self.msgType = data.get("type", 0)
+        self.msgTime = data.get("time", 0)
+        self.msgContent = data.get("msg", 0)
+        self.meta = data.get("meta", 0)
 
     def toJsonDict(self) -> dict:
         data = {
-            "appId": self.appId,
-            "userId": self.contactId,
-            "msgId": self.msgId,
-            "msgTime": self.msgTime,
+            "app_id": self.appId,
+            "user_id": self.contactId,
+            "msg_id": self.msgId,
+            "time": self.msgTime,
             "meta": self.meta,
-            "content": self.msgContent,
+            "msg": self.msgContent,
         }
         return data
 
