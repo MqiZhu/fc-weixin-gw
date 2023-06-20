@@ -214,7 +214,7 @@ class RocketMQDispatcher(MQDispatcher):
         self.topic = topic
         self.producer = Producer("test_dispacher")
         self.producer.set_namesrv_domain(self.url)
-        self.producer.set_session_credentials(self.url, self.user, 'ALIYUN')
+        self.producer.set_session_credentials(self.user, self.passwd, 'ALIYUN')
         self.producer.start()
 
     def send_to_queue(self, source: str, data: dict) -> bool:
