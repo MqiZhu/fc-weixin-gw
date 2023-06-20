@@ -182,9 +182,11 @@ class MQDispatcher(Dispatcher):
             "time": int(time.time())
         }
 
-        if not self._dispatch(source, data):
+        logger.info("before sending!!!")
+        if not self.send_to_queue(source, data):
             logger.warn("dispatch failed")
             return None
+        logger.info("sending ok!")
 
         if is_passive(app_id):
             for i in range(6):
@@ -200,6 +202,10 @@ class MQDispatcher(Dispatcher):
             app_id, source, msg_id))
         return create_reply(None).render()
 
+    def send_to_queue(self, source: str, data: dict) -> bool:
+        logger = get_logger()
+        logger.error("not impleted")
+
 
 class RocketMQDispatcher(MQDispatcher):
 
@@ -209,8 +215,9 @@ class RocketMQDispatcher(MQDispatcher):
         self.producer = Producer("test_dispacher")
         self.producer.set_namesrv_domain(self.url)
         self.producer.set_session_credentials(self.url, self.user, 'ALIYUN')
+        self.producer.start()
 
-    def _dispatch(self, source: str, data: dict) -> bool:
+    def send_to_queue(self, source: str, data: dict) -> bool:
         logger = get_logger()
         try:
             msg = Message(self.topic)
