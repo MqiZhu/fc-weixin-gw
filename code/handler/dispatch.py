@@ -57,7 +57,7 @@ class MemoryDispatcher(Dispatcher):
         logger = get_logger()
         if msgType != 'text':
             logger.warn("unknown msg", msgType)
-            return
+            return None
 
         m: TextMessage = msg
         msgId = m.id
@@ -179,7 +179,9 @@ class MQDispatcher(Dispatcher):
             "type": msg.type,
             "time": int(time.time())
         }
-        self._dispatch(source, data)
+
+        if not self._dispatch(source, data):
+            return None
 
         if is_passive(app_id):
             for i in range(6):
@@ -208,13 +210,17 @@ class RocketMQDispatcher(MQDispatcher):
         self.producer.set_namesrv_domain(self.url)
         self.producer.set_session_credentials(self.url, self.user, 'ALIYUN')
 
-    def _dispatch(self, source: str, data: dict):
+    def _dispatch(self, source: str, data: dict) -> bool:
         logger = get_logger()
-
-        msg = Message(self.topic)
-        msg.set_body(json.dumps(data))
-        msg.set_keys(source)
-        msg.set_tags("chat")
-        self.producer.send_sync(msg)
+        try:
+            msg = Message(self.topic)
+            msg.set_body(json.dumps(data))
+            msg.set_keys(source)
+            msg.set_tags("chat")
+            self.producer.send_sync(msg)
+        except Exception as e:
+            logger.error("failed, {}".format(e))
+            return False
 
         logger.info("send to queue from: {}".format(source))
+        return True
