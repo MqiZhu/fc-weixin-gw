@@ -80,7 +80,6 @@ class MemoryDispatcher(Dispatcher):
         self.ques[ha].put(msg)
 
         if is_passive(appName):
-            import time
             time.sleep(1)
             hit, rsp = try_get_from_cache(appName, source, msgId)
             if hit:
@@ -183,7 +182,6 @@ class MQDispatcher(Dispatcher):
         self._dispatch(source, data)
 
         if is_passive(app_id):
-            import time
             for i in range(6):
                 time.sleep(1)
                 hit, rsp = try_get_from_cache(app_id, source, msg_id)
