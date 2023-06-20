@@ -6,3 +6,5 @@ redis==4.5.5
 python-redis-lock==4.0.0
 gunicorn==20.1.0
 gevent
+rocketmq
+alibabacloud_eventbridge

@@ -8,6 +8,9 @@ from wechatpy import WeChatClient, create_reply
 import queue
 from common.redis_cli import get_redis_client
 from common.logger import get_logger
+import time
+from rocketmq.client import Producer, Message
+import json
 
 
 class Dispatcher(object):
@@ -96,7 +99,7 @@ class RedisDispatcher(Dispatcher):
     def DispatchMsg(self, app_id: str, msg: BaseMessage):
         logger = get_logger()
         if msg.type != 'text':
-            logger.warn("unknown msg", msgType)
+            logger.warn("unknown msg", msg.type)
             return
 
         tMsg: TextMessage = msg
@@ -138,3 +141,83 @@ class RedisDispatcher(Dispatcher):
         logger.info("active reply none:app_id={}, source={}, msg_id={}".format(
             app_id, source, msg_id))
         return create_reply(None).render()
+
+
+class MQDispatcher(Dispatcher):
+
+    def __init__(self, url, user, passwd) -> None:
+        super().__init__()
+        self.url = url
+        self.user = user
+        self.passwd = passwd
+
+    def DispatchMsg(self, app_id: str, msg: BaseMessage):
+        logger = get_logger()
+        if msg.type != 'text':
+            logger.warn("unknown msg", msg.type)
+            return
+
+        t_msg: TextMessage = msg
+
+        msg_id = msg.id
+        msgType = msg.type
+        source = msg.source
+        target = msg.target
+        content = t_msg.content
+
+        from handler.cache import try_get_from_cache
+        from apps.app_config import is_passive
+
+        if is_passive(app_id):
+            hit, rsp = try_get_from_cache(app_id, source, msg_id)
+            logger.info("rsp pre result:{},{}".format(hit, rsp))
+            if hit:
+                return create_reply(rsp, msg).render()
+
+        data = {
+            "user_id": source,
+            "to": target,
+            "msg": content,
+            "type": msg.type,
+            "time": int(time.time())
+        }
+        self._dispatch(source, data)
+
+        if is_passive(app_id):
+            import time
+            for i in range(6):
+                time.sleep(1)
+                hit, rsp = try_get_from_cache(app_id, source, msg_id)
+                if hit:
+                    logger.info("passive reply text:app_id={}, source={}, msg_id={}".format(
+                        app_id, source, msg_id))
+                    return create_reply(rsp, msg).render()
+
+            return None
+        logger.info("active reply none:app_id={}, source={}, msg_id={}".format(
+            app_id, source, msg_id))
+        return create_reply(None).render()
+
+    def _dispatch(self, source: str, data: dict):
+        pass
+
+
+class RocketMQDispatcher(MQDispatcher):
+
+    def __init__(self, url, user, passwd, topic='weixin_chat_msg') -> None:
+        super().__init__(url, user, passwd)
+        self.topic = topic
+        self.producer = Producer("test_dispacher")
+        self.producer.set_namesrv_domain(self.url)
+        self.producer.set_session_credentials(self.url, self.user, 'ALIYUN')
+
+    def _dispatch(self, source: str, data: dict):
+        logger = get_logger()
+
+        msg = Message(self.topic)
+        msg.set_body(json.dumps(data))
+        msg.set_keys(source)
+        msg.set_tags("chat")
+        self.producer.send_sync(msg)
+
+        logger.info("send to queue from: {}".format(source))
