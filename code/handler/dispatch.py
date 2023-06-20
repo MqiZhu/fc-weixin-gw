@@ -128,7 +128,6 @@ class RedisDispatcher(Dispatcher):
         self.redis_cli.publish(key, u.toJson())
 
         if is_passive(app_id):
-            import time
             for i in range(6):
                 time.sleep(1)
                 hit, rsp = try_get_from_cache(app_id, source, msg_id)
