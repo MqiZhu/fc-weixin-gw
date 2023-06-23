@@ -225,7 +225,8 @@ class RocketMQDispatcher(MQDispatcher):
             self.user,
             self.passwd,
         )
-        self.producer = self.mq_client.get_producer("1357979013296492", topic)
+        self.producer = self.mq_client.get_producer(
+            "MQ_INST_1357979013296492_BYlRvnCy", topic)
 
     def send_to_queue(self, source: str, data: dict) -> bool:
         logger = get_logger()
