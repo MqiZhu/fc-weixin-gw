@@ -156,9 +156,11 @@ class MQDispatcher(Dispatcher):
 
     def DispatchMsg(self, app_id: str, msg: BaseMessage):
         logger = get_logger()
+        logger.info("DispatchMsg")
+
         if msg.type != 'text':
             logger.warn("unknown msg", msg.type)
-            return
+            return create_reply("暂时仅支持文字聊天哦！")
 
         t_msg: TextMessage = msg
 
@@ -223,13 +225,12 @@ class RocketMQDispatcher(MQDispatcher):
             self.user,
             self.passwd,
         )
-        self.producer = self.mq_client.get_producer("", topic)
+        self.producer = self.mq_client.get_producer("1357979013296492", topic)
 
     def send_to_queue(self, source: str, data: dict) -> bool:
         logger = get_logger()
+        logger.info("send_to_queue")
         try:
-            msg = Message(self.topic)
-
             msg = TopicMessage(
                 # 消息内容。
                 json.dumps(data),
@@ -240,12 +241,8 @@ class RocketMQDispatcher(MQDispatcher):
             # 设置消息的Key。
             msg.set_message_key("MessageKey")
             msg.set_sharding_key(source)
-            self.mq_client.send
-            re_msg = self.producer.publish_message(msg)
-            msg.set_body(json.dumps(data))
-            msg.set_keys(source)
-            msg.set_tags("chat")
-            self.producer.send_sync(msg)
+            ret_msg = self.producer.publish_message(msg)
+            logger.info("ret_msg{}".format(ret_msg))
         except MQExceptionBase as e:
             if e.type == "TopicNotExist":
                 logger.error("topic not exist!!, need create")

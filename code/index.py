@@ -9,8 +9,9 @@ from wechatpy.exceptions import (
     InvalidSignatureException,
     InvalidAppIdException,
 )
+import traceback
 import main
-from common.logger import get_logger
+from common.logger import get_logger, init_logger
 # set token or get from environments
 app = main.create_app("wechat_gw")
 
@@ -23,6 +24,7 @@ def hello():
 @app.route("/wechat", methods=["GET", "POST"])
 def wechat():
     logger = get_logger()
+    logger.info("wechat!!!")
     appName = request.args.get("appid")
     signature = request.args.get("signature", "")
     timestamp = request.args.get("timestamp", "")
@@ -52,8 +54,9 @@ def wechat():
             if ret == None:
                 abort(400)
             return ret
-        except:
-            logger.error("Catch Error")
+        except Exception as e:
+            logger.error("Catch Error{}".format(e))
+            traceback.print_exc()
             abort(500)
 
     from wechatpy.crypto import WeChatCrypto
@@ -73,4 +76,6 @@ def wechat():
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=9000)
+    init_logger("", debug=True)
+
+    app.run(host="0.0.0.0", port=8000, debug=True)
