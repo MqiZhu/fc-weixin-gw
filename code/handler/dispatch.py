@@ -9,8 +9,13 @@ import queue
 from common.redis_cli import get_redis_client
 from common.logger import get_logger
 import time
-from rocketmq.client import Producer, Message
 import json
+import sys
+
+from mq_http_sdk.mq_exception import MQExceptionBase
+from mq_http_sdk.mq_producer import *
+from mq_http_sdk.mq_client import *
+import time
 
 
 class Dispatcher(object):
@@ -212,20 +217,38 @@ class RocketMQDispatcher(MQDispatcher):
     def __init__(self, url, user, passwd, topic='weixin_chat_msg') -> None:
         super().__init__(url, user, passwd)
         self.topic = topic
-        self.producer = Producer("test_dispacher")
-        self.producer.set_namesrv_domain(self.url)
-        self.producer.set_session_credentials(self.user, self.passwd, 'ALIYUN')
-        self.producer.start()
+        self.mq_client = MQClient(
+            # 设置HTTP协议客户端接入点，进入云消息队列 RocketMQ 版控制台实例详情页面的接入点区域查看。
+            self.url,
+            self.user,
+            self.passwd,
+        )
+        self.producer = self.mq_client.get_producer("", topic)
 
     def send_to_queue(self, source: str, data: dict) -> bool:
         logger = get_logger()
         try:
             msg = Message(self.topic)
+
+            msg = TopicMessage(
+                # 消息内容。
+                json.dumps(data),
+                # 消息标签。
+                "tag")
+            # 设置消息的自定义属性。
+            msg.put_property("test", "test")
+            # 设置消息的Key。
+            msg.set_message_key("MessageKey")
+            msg.set_sharding_key(source)
+            self.mq_client.send
+            re_msg = self.producer.publish_message(msg)
             msg.set_body(json.dumps(data))
             msg.set_keys(source)
             msg.set_tags("chat")
             self.producer.send_sync(msg)
-        except Exception as e:
+        except MQExceptionBase as e:
+            if e.type == "TopicNotExist":
+                logger.error("topic not exist!!, need create")
             logger.error("failed, {}".format(e))
             return False
 

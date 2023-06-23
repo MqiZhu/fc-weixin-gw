@@ -59,5 +59,5 @@ class ZyWxClient(WeChatClient):
                 }
 
                 self.redis.set(self.redis_key, json.dumps(redis_data))
-                logger.info("set redis data", json.dumps(data))
+                logger.info("set redis data".format(json.dumps(data)))
                 return access_token

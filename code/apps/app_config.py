@@ -17,7 +17,8 @@ _apps = {
         "AES_KEY": "",
         "APP_ID": "wx22ce550ecb8bb312",
         "APP_SECRET": "5393aa38f70ce352bcf99b0e9031a0f2",
-        "dispatcher": RocketMQDispatcher("rmq-cn-zxu39q7xq01-vpc.cn-hangzhou.rmq.aliyuncs.com:8080", "kzq83Fxi1Db9Mep9", "TmdfB90bbLY1LmPf"),
+        "dispatcher": RocketMQDispatcher("http://1357979013296492.mqrest.cn-hangzhou.aliyuncs.com",
+                                         "LTAI5tQnLUQgZSY9xy7rz2fL", "eIVPKw6R7eSv2Mt2EJ6ZJJ9Rh3HKqJ"),
         "passive": True
     },
     "test_qa": {
