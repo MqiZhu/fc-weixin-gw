@@ -64,7 +64,7 @@ def wechat():
         # plaintext mode
         msg = parse_message(request.data)
         try:
-            hit, rsp = dispath.dispatch_wxmp_msg(appName, msg)
+            hit, rsp = dispath.dispatch_wxmp_msg(app_id, msg)
             if hit:
                 if rsp == None:
                     return create_reply(None).render()
