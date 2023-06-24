@@ -2,8 +2,8 @@
 import os
 
 from flask import Flask, request, abort
-from wechatpy import parse_message
-from apps.app_config import GetTokenByApp, GetAppAESKeyByName, GetAppIdByName, GetDispatcherByName
+from wechatpy import parse_message, create_reply
+from apps.app_config import GetTokenByApp, GetAppAESKeyByName, GetAppIdByName, get_dispatcher_by_name
 from wechatpy.utils import check_signature
 from wechatpy.exceptions import (
     InvalidSignatureException,
@@ -21,18 +21,32 @@ def hello():
     return "hello"
 
 
+@app.route("/zhdata/chat", methods=["GET", "POST"])
+def zhchat():
+
+    logger = get_logger()
+    app_id = "zhenhuashuju_mq"
+    req_data = request.get_json()
+    hd = get_dispatcher_by_name(app_id)
+
+    msg_id = req_data.get("msgId", 0)
+    user_id = req_data.get("contactId", '')
+    app_id = req_data.get("botWxid", '')
+
+    hd.dispatch_data(app_id, user_id, msg_id, req_data)
+
+
 @app.route("/wechat", methods=["GET", "POST"])
 def wechat():
     logger = get_logger()
-    logger.info("wechat!!!")
-    appName = request.args.get("appid")
+    app_id = request.args.get("appid")
     signature = request.args.get("signature", "")
     timestamp = request.args.get("timestamp", "")
     nonce = request.args.get("nonce", "")
     encrypt_type = request.args.get("encrypt_type", "raw")
     msg_signature = request.args.get("msg_signature", "")
 
-    token = GetTokenByApp(appName)
+    token = GetTokenByApp(app_id)
     if token == None:
         abort(403)
 
@@ -44,16 +58,18 @@ def wechat():
         echo_str = request.args.get("echostr", "")
         return echo_str
 
-    dispath = GetDispatcherByName(appName)
+    dispath = get_dispatcher_by_name(app_id)
     # POST request
     if encrypt_type == "raw":
         # plaintext mode
         msg = parse_message(request.data)
         try:
-            ret = dispath.DispatchMsg(appName, msg)
-            if ret == None:
-                abort(400)
-            return ret
+            hit, rsp = dispath.dispatch_wxmp_msg(appName, msg)
+            if hit:
+                if rsp == None:
+                    return create_reply(None).render()
+                return create_reply(rsp, msg).render()
+            abort(400)
         except Exception as e:
             logger.error("Catch Error{}".format(e))
             traceback.print_exc()
@@ -61,7 +77,7 @@ def wechat():
 
     from wechatpy.crypto import WeChatCrypto
     crypto = WeChatCrypto(token, GetAppAESKeyByName(
-        appName), GetAppIdByName(appName))
+        app_id), GetAppIdByName(app_id))
     try:
         msg = crypto.decrypt_message(
             request.data, msg_signature, timestamp, nonce)
@@ -69,10 +85,12 @@ def wechat():
         abort(403)
     else:
         msg = parse_message(msg)
-        ret = dispath.DispatchMsg(appName, msg)
-        if ret == None:
-            abort(400)
-        return ret
+        hit, rsp = dispath.dispatch_wxmp_msg(app_id, msg)
+        if hit:
+            if rsp == None:
+                return create_reply(None).render()
+            return create_reply(rsp, msg).render()
+        abort(400)
 
 
 if __name__ == "__main__":

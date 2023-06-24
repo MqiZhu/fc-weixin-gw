@@ -21,6 +21,11 @@ _apps = {
                                          "LTAI5tKwQQiKjzuXDRSP3hF5", "PPQgvhBhuIahji8zh01v0d3vMsoq5q"),
         "passive": True
     },
+    "zhenhuashuju_mq": {
+        "passive": True,
+        "dispatcher": RocketMQDispatcher("http://1357979013296492.mqrest.cn-hangzhou-internal.aliyuncs.com",
+                                         "LTAI5tKwQQiKjzuXDRSP3hF5", "PPQgvhBhuIahji8zh01v0d3vMsoq5q"),
+    },
     "test_qa": {
         "TOKEN": "1234567",
         "AES_KEY": "",
@@ -64,7 +69,7 @@ def GetAppIdByName(name: str) -> str:
     return appC["APP_ID"]
 
 
-def GetDispatcherByName(name: str) -> Dispatcher:
+def get_dispatcher_by_name(name: str) -> Dispatcher:
     return _apps[name]["dispatcher"]
 
 
