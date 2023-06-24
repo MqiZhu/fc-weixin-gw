@@ -74,11 +74,3 @@ def GetAppAndSecretByName(name: str):
         return "", ""
 
     return appC["APP_ID"], appC["APP_SECRET"]
-
-
-def GetHandlerByName(name: str) -> Handler:
-    appC = _apps.get(name)
-    if appC == None:
-        return None
-
-    return appC["msgHandler"]

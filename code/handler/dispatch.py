@@ -2,7 +2,6 @@
 from handler.msg import UMsg
 from wechatpy.messages import BaseMessage, TextMessage
 import threading
-from handler.handler import EchoHandler
 from redis import Redis
 from wechatpy import WeChatClient, create_reply
 import queue
