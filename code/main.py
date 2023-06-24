@@ -7,6 +7,5 @@ from common.logger import init_logger
 
 def create_app(name):
     app = Flask(__name__)
-
     app.logger = init_logger(name)
     return app

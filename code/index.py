@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import os
 
-from flask import Flask, request, abort
+from flask import Flask, request, abort, jsonify
 from wechatpy import parse_message, create_reply
 from apps.app_config import GetTokenByApp, GetAppAESKeyByName, GetAppIdByName, get_dispatcher_by_name
 from wechatpy.utils import check_signature
@@ -32,8 +32,13 @@ def zhchat():
     msg_id = req_data.get("msgId", 0)
     user_id = req_data.get("contactId", '')
     app_id = req_data.get("botWxid", '')
+    req_data["app_id"] = "zhenhuashuju_mq"
 
     hd.dispatch_data(app_id, user_id, msg_id, req_data)
+
+    return jsonify({
+        "succ": True,
+    })
 
 
 @app.route("/wechat", methods=["GET", "POST"])

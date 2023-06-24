@@ -1,14 +1,11 @@
 # coding=utf-8
-from handler.handler import ToWxApiHandler, Handler
 from handler.dispatch import RocketMQDispatcher, RedisDispatcher, Dispatcher
-from apps.client_manager import ZyWxClient
 from common.redis_cli import get_redis_client
 _apps = {
     "yuanquanlaotu": {
         "TOKEN": "1234567",
         "AES_KEY": "",
         "APP_ID": "wx22ce550ecb8bb312",
-        "APP_SECRET": "5393aa38f70ce352bcf99b0e9031a0f2",
         "dispatcher": RedisDispatcher(get_redis_client, 10, "yuanquanlaotu"),
         "passive": True
     },
@@ -16,7 +13,6 @@ _apps = {
         "TOKEN": "1234567",
         "AES_KEY": "",
         "APP_ID": "wx22ce550ecb8bb312",
-        "APP_SECRET": "5393aa38f70ce352bcf99b0e9031a0f2",
         "dispatcher": RocketMQDispatcher("http://1357979013296492.mqrest.cn-hangzhou-internal.aliyuncs.com",
                                          "LTAI5tKwQQiKjzuXDRSP3hF5", "PPQgvhBhuIahji8zh01v0d3vMsoq5q"),
         "passive": True
@@ -30,7 +26,6 @@ _apps = {
         "TOKEN": "1234567",
         "AES_KEY": "",
         "APP_ID": "wx22ce550ecb8bb312",
-        "APP_SECRET": "5393aa38f70ce352bcf99b0e9031a0f2",
         "dispatcher": RedisDispatcher(get_redis_client, 10, "yuanquanlaotu"),
         "passive": False
     }
