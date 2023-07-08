@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import os
+import json
 
 from flask import Flask, request, abort, jsonify
 from wechatpy import parse_message, create_reply
@@ -12,6 +13,7 @@ from wechatpy.exceptions import (
 import traceback
 import main
 from common.logger import get_logger, init_logger
+from common.zhdata_config import ZhConf
 # set token or get from environments
 app = main.create_app("wechat_gw")
 
@@ -97,6 +99,61 @@ def wechat():
             return create_reply(rsp, msg).render()
         abort(400)
 
+
+@app.route("/zhdata_adminregister", methods=["POST", "GET"])
+def adminregister():
+    logger = get_logger()
+    req_data = request.get_json()
+    data = {}
+    rsp = ''
+    zhconf = None
+    if 'gameName' in req_data and req_data['gameName'] != '':
+        zhconf = ZhConf(req_data['gameName'], 'game')
+    elif 'botWxId' in req_data and req_data['botWxId'] != '':
+        zhconf = ZhConf(req_data['botWxId'], 'bot')
+    else:
+        data['system_message'] = "gameName or botWxId needed"
+        data["succ"] = False
+        return json.dumps(data)
+    try:
+        zhconf.set_conf(req_data)
+        result_conf = zhconf.get_conf()
+        logger.info("call succ, add config {}".format(result_conf))
+        data['config'] = result_conf
+        data["succ"] = True
+    except Exception as e:
+        data["succ"] = False
+        data["err"] = "intenal error: {}".format(e)
+        logger.info(
+            "config error, req={}, e={}".format(req_data, e))
+    return json.dumps(data)
+
+@app.route("/zhdata_admincheck", methods=["POST", "GET"])
+def admincheck():
+    logger = get_logger()
+    req_data = request.get_json()
+    data = {}
+    rsp = ''
+    zhconf = None
+    if 'gameName' in req_data and req_data['gameName'] != '':
+        zhconf = ZhConf(req_data['gameName'], 'game')
+    elif 'botWxId' in req_data and req_data['botWxId'] != '':
+        zhconf = ZhConf(req_data['botWxId'], 'bot')
+    else:
+        data['system_message'] = "gameName or botWxId needed"
+        data["succ"] = False
+        return json.dumps(data)
+    try:
+        result_conf = zhconf.get_conf()
+        logger.info("call succ, get config {}".format(result_conf))
+        data['config'] = result_conf
+        data["succ"] = True
+    except Exception as e:
+        data["succ"] = False
+        data["err"] = "intenal error: {}".format(e)
+        logger.info(
+            "config error, req={}, e={}".format(req_data, e))
+    return json.dumps(data)
 
 if __name__ == "__main__":
     init_logger("", debug=True)
