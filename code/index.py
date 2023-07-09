@@ -100,7 +100,7 @@ def wechat():
         abort(400)
 
 
-@app.route("/zhdata_adminregister", methods=["POST", "GET"])
+@app.route("/zhdata/adminregister", methods=["POST", "GET"])
 def adminregister():
     logger = get_logger()
     req_data = request.get_json()
@@ -128,7 +128,7 @@ def adminregister():
             "config error, req={}, e={}".format(req_data, e))
     return json.dumps(data)
 
-@app.route("/zhdata_admincheck", methods=["POST", "GET"])
+@app.route("/zhdata/admincheck", methods=["POST", "GET"])
 def admincheck():
     logger = get_logger()
     req_data = request.get_json()
