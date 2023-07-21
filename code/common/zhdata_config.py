@@ -55,11 +55,23 @@ class ZhConf(object):
         else:
             redis_conf = json.loads(redis_cli.get(self.rs_key))
         return redis_conf
+    
+    def get_all_configs(self):
+        conf = {}
+        conf['bots'] = [bot.decode('utf-8') for bot in redis_cli.smembers('rs_zhdata_config_all_bots')]
+        conf['games'] = [game.decode('utf-8') for game in redis_cli.smembers('rs_zhdata_config_all_games')]
+        return conf
 
     def set_conf(self, conf):
-       redis_conf = update_config(self.default_config, conf)
-       redis_cli.set(self.rs_key, json.dumps(redis_conf))
-       return 
+        redis_conf = update_config(self.default_config, conf)
+        redis_cli.set(self.rs_key, json.dumps(redis_conf, ensure_ascii=False).encode('utf-8'))
+        if self.type == 'bot':
+            redis_cli.sadd('rs_zhdata_config_all_bots', self.id)
+        elif self.type == 'game':
+            redis_cli.sadd('rs_zhdata_config_all_games', self.id)
+        else:
+            logger.warning("{} Id={} not supported".format(self.type, self.id))
+        return 
        
         
 

@@ -114,7 +114,7 @@ def adminregister():
     else:
         data['system_message'] = "gameName or botWxId needed"
         data["succ"] = False
-        return json.dumps(data)
+        return json.dumps(data, ensure_ascii=False).encode('utf-8')
     try:
         zhconf.set_conf(req_data)
         result_conf = zhconf.get_conf()
@@ -126,7 +126,7 @@ def adminregister():
         data["err"] = "intenal error: {}".format(e)
         logger.info(
             "config error, req={}, e={}".format(req_data, e))
-    return json.dumps(data)
+    return json.dumps(data, ensure_ascii=False).encode('utf-8')
 
 @app.route("/zhdata/admincheck", methods=["POST", "GET"])
 def admincheck():
@@ -142,7 +142,7 @@ def admincheck():
     else:
         data['system_message'] = "gameName or botWxId needed"
         data["succ"] = False
-        return json.dumps(data)
+        return json.dumps(data, ensure_ascii=False).encode('utf-8')
     try:
         result_conf = zhconf.get_conf()
         logger.info("call succ, get config {}".format(result_conf))
@@ -153,7 +153,25 @@ def admincheck():
         data["err"] = "intenal error: {}".format(e)
         logger.info(
             "config error, req={}, e={}".format(req_data, e))
-    return json.dumps(data)
+    return json.dumps(data, ensure_ascii=False).encode('utf-8')
+
+@app.route("/zhdata/admincheckallconfigs", methods=["POST", "GET"])
+def admincheckallconfigs():
+    logger = get_logger()
+    data = {}
+    try:
+        zhconf = ZhConf(0, '')
+        result_conf = zhconf.get_all_configs()
+        logger.info("call succ, get all configs {}".format(result_conf))
+        data['bots'] = result_conf['bots']
+        data['games'] = result_conf['games']
+        data["succ"] = True
+    except Exception as e:
+        data["succ"] = False
+        data["err"] = "intenal error: {}".format(e)
+        logger.info(
+            "config error, e={}".format(e))
+    return json.dumps(data, ensure_ascii=False).encode('utf-8')
 
 if __name__ == "__main__":
     init_logger("", debug=True)
