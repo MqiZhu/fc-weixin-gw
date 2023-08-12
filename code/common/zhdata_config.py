@@ -16,7 +16,9 @@ default_game = {
     "gameName": "九梦仙域_魂天",
     "gameUrl": "https://p.daimiaohudong.cn/Mobile/Promotion/code?spm=tvBACk",
     "gameBonus": "开局赠送1亿元宝+300绑定仙玉+初级羽翼、法宝精华+后续各种等级材料大礼i包，每天打佧礼i包",
+    "gameBonusSummary": "开局赠送1亿元宝+300绑定仙玉+初级羽翼、法宝精华+后续各种等级材料大礼i包，每天打佧礼i包",
     "gameFeature": "九梦仙域是一款多人在线游戏，玩家可以通过互联网与其他玩家互动。游戏以虚拟角色扮演为核心玩法，玩家可以自由探索游戏世界，与NPC和其他玩家交互，完成任务和挑战副本。",
+    "gameFeatureSummary": "九梦仙域是一款多人在线游戏，玩家可以通过互联网与其他玩家互动。游戏以虚拟角色扮演为核心玩法，玩家可以自由探索游戏世界，与NPC和其他玩家交互，完成任务和挑战副本。",
     "gameShotsUrl": "",
     "gameWxUrl": ""
 }
