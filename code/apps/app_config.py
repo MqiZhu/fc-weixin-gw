@@ -34,7 +34,7 @@ _apps = {
         "AES_KEY": "",
         "APP_ID": "wx0b5b2994fcd5fd9c",
         "dispatcher": RocketMQDispatcher("http://1357979013296492.mqrest.cn-hangzhou-internal.aliyuncs.com", "LTAI5tKwQQiKjzuXDRSP3hF5", "PPQgvhBhuIahji8zh01v0d3vMsoq5q"),
-        "passive": False
+        "passive": True
     }
 }
 
