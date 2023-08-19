@@ -28,6 +28,13 @@ _apps = {
         "APP_ID": "wx22ce550ecb8bb312",
         "dispatcher": RedisDispatcher(get_redis_client, 10, "yuanquanlaotu"),
         "passive": False
+    },
+    "greatleapaiKL": {
+        "TOKEN": "wearegreatleapai",
+        "AES_KEY": "",
+        "APP_ID": "wx3a90ccc2d789c942",
+        "dispatcher": RocketMQDispatcher("http://1357979013296492.mqrest.cn-hangzhou-internal.aliyuncs.com", "LTAI5tKwQQiKjzuXDRSP3hF5", "PPQgvhBhuIahji8zh01v0d3vMsoq5q"),
+        "passive": True
     }
 }
 
