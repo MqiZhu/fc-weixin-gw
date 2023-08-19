@@ -52,6 +52,7 @@ def wechat():
     nonce = request.args.get("nonce", "")
     encrypt_type = request.args.get("encrypt_type", "raw")
     msg_signature = request.args.get("msg_signature", "")
+    logger.info("call from app_id= {} {} ".format(app_id, signature))
 
     token = GetTokenByApp(app_id)
     if token == None:
