@@ -34,7 +34,7 @@ _apps = {
         "AES_KEY": "",
         "APP_ID": "wx3a90ccc2d789c942",
         "dispatcher": RedisDispatcher(get_redis_client, 10, "yuanquanlaotu"),
-        "passive": True
+        "passive": False
     }
 }
 
