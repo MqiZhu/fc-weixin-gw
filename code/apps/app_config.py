@@ -32,7 +32,7 @@ _apps = {
     "greatleapaiKL": {
         "TOKEN": "wearegreatleapai",
         "AES_KEY": "",
-        "APP_ID": "wx3a90ccc2d789c942",
+        "APP_ID": "wx0b5b2994fcd5fd9c",
         "dispatcher": RedisDispatcher(get_redis_client, 10, "yuanquanlaotu"),
         "passive": False
     }
