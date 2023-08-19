@@ -31,9 +31,9 @@ _apps = {
     },
     "greatleapaiKL": {
         "TOKEN": "wearegreatleapai",
-        "AES_KEY": "",
+        "AES_KEY": "cDDkmcsGw50UcZ7LsZlfqcMAvjzyThPFC5Qq0l1HdJ1",
         "APP_ID": "wx0b5b2994fcd5fd9c",
-        "dispatcher": RedisDispatcher(get_redis_client, 10, "yuanquanlaotu"),
+        "dispatcher": RocketMQDispatcher("http://1357979013296492.mqrest.cn-hangzhou-internal.aliyuncs.com", "LTAI5tKwQQiKjzuXDRSP3hF5", "PPQgvhBhuIahji8zh01v0d3vMsoq5q"),
         "passive": False
     }
 }
