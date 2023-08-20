@@ -44,7 +44,7 @@ services:
 
       function:
         name: "flask"
-        description: 'Serverless Devs Web Framework Function'
+        description: '微信网关'
         codeUri: './code'
         runtime: python3.9
         handler: index.app
