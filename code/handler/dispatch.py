@@ -74,7 +74,7 @@ class MQDispatcher(Dispatcher):
                 return True, rsp
 
         if not self.send_to_queue(source, msg_id, data):
-            logger.warn("dispatch failed")
+            logger.warn("msg= {} dispatch failed".format(data))
             return False, None
 
         if is_passive(app_id):
@@ -87,8 +87,8 @@ class MQDispatcher(Dispatcher):
                     return True, rsp
 
             return False, None
-        logger.info("active reply none:app_id={}, source={}, msg_id={}".format(
-            app_id, source, msg_id))
+        logger.info("active reply:app_id={}, source={}, msg_id={}, data={}".format(
+            app_id, source, msg_id, data))
         return True, None
 
     def send_to_queue(self, source: str, msg_id: str, data: dict) -> bool:
@@ -112,7 +112,7 @@ class RocketMQDispatcher(MQDispatcher):
 
     def send_to_queue(self, source: str, msg_id: str, data: dict) -> bool:
         logger = get_logger()
-        logger.info("send_to_queue")
+        #logger.info("send_to_queue")
         try:
             msg = TopicMessage(
                 # 消息内容。
@@ -125,14 +125,14 @@ class RocketMQDispatcher(MQDispatcher):
             msg.set_message_key("MessageKey")
             msg.set_sharding_key(source)
             ret_msg = self.producer.publish_message(msg)
-            logger.info("ret_msg{}".format(ret_msg))
+            #logger.info("send msg={}, ret_msg={}".format(ret_msg))
         except MQExceptionBase as e:
             if e.type == "TopicNotExist":
                 logger.error("topic not exist!!, need create")
-            logger.error("failed, {}".format(e))
+            logger.error("send msg={} failed, {}".format(data, e))
             return False
 
-        logger.info("send to queue from: {}".format(source))
+        #logger.info("send to queue from: {}".format(source))
         return True
 
 
